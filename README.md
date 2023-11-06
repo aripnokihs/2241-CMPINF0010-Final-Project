@@ -6,7 +6,7 @@ This is the final project for 2241 CMPINF0010
 
 1. This repo uses Jupyter Notebook
 
-2. Type in `` into your terminal and hit enter
+2. Type in `git clone git@github.com:aripnokihs/Stupid-Big-Final-Project-Hooray.git` into your terminal and hit enter
 
 3. You'll see a folder named *Stupid-Big-Final-Project-Hooray*, double click on it to open
 
