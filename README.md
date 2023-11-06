@@ -19,9 +19,10 @@ TBD
 ## Contributing
 
 1. Fork the Project
-2. Commit your Changes (git commit -m 'Add some AmazingFeature')
-3. Push to the Branch (git push origin feature/AmazingFeature)
-4. Open a Pull Request
+2. Commit your Changes (git commit -m 'Added some AmazingFeature')
+3. Push to the Main
+4. Send a Pull Request
+
  
 ## Group Members
 
