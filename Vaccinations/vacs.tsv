@@ -1,0 +1,2716 @@
+﻿_id	month	neighborhood_municipality	bivalent_booster
+160303	2022-09-01	Aleppo	45
+160304	2022-11-01	Aleppo	101
+160305	2023-01-01	Aleppo	17
+160306	2023-04-01	Aleppo	2
+160307	2023-06-01	Aleppo	1
+160308	2023-08-01	Aleppo	4
+160309	2023-10-01	Aleppo	1
+160310	2022-10-01	Allegheny Center (Pittsburgh)	80
+160311	2022-12-01	Allegheny Center (Pittsburgh)	38
+160312	2023-03-01	Allegheny Center (Pittsburgh)	6
+160313	2023-05-01	Allegheny Center (Pittsburgh)	3
+160314	2023-07-01	Allegheny Center (Pittsburgh)	2
+160315	2023-02-01	Allegheny West (Pittsburgh)	3
+160316	2023-09-01	Allegheny West (Pittsburgh)	1
+160317	2023-02-01	Arlington (Pittsburgh)	8
+160318	2023-09-01	Arlington (Pittsburgh)	1
+160319	2022-10-01	Arlington Heights (Pittsburgh)	5
+160320	2022-12-01	Arlington Heights (Pittsburgh)	2
+160321	2023-03-01	Arlington Heights (Pittsburgh)	1
+160322	2023-05-01	Arlington Heights (Pittsburgh)	1
+160323	2022-09-01	Aspinwall	95
+160324	2022-11-01	Aspinwall	299
+160325	2023-01-01	Aspinwall	55
+160326	2023-04-01	Aspinwall	8
+160327	2023-06-01	Aspinwall	5
+160328	2023-08-01	Aspinwall	7
+160329	2023-10-01	Aspinwall	3
+160330	2022-09-01	Avalon	48
+160331	2022-11-01	Avalon	294
+160332	2023-01-01	Avalon	46
+160333	2023-04-01	Avalon	12
+160334	2023-06-01	Avalon	5
+160335	2023-08-01	Avalon	7
+160336	2023-10-01	Avalon	1
+160337	2023-09-01	Baldwin Borough	7
+160338	2023-02-01	Baldwin Township	10
+160339	2022-11-01	Banksville (Pittsburgh)	224
+160340	2023-01-01	Banksville (Pittsburgh)	58
+160341	2023-04-01	Banksville (Pittsburgh)	14
+160342	2023-06-01	Banksville (Pittsburgh)	2
+160343	2023-08-01	Banksville (Pittsburgh)	2
+160344	2023-10-01	Banksville (Pittsburgh)	2
+160345	2023-02-01	Bedford Dwellings (Pittsburgh)	8
+160346	2023-09-01	Bedford Dwellings (Pittsburgh)	1
+160347	2023-01-01	Bell Acres	24
+160348	2023-04-01	Bell Acres	1
+160349	2023-06-01	Bell Acres	1
+160350	2023-08-01	Bell Acres	4
+160351	2023-10-01	Bell Acres	1
+160352	2022-09-01	Beltzhoover (Pittsburgh)	6
+160353	2022-10-01	Ben Avon	133
+160354	2022-12-01	Ben Avon	82
+160355	2023-03-01	Ben Avon	11
+160356	2023-05-01	Ben Avon	8
+160357	2023-07-01	Ben Avon	3
+160358	2022-09-01	Ben Avon Heights	12
+160359	2022-11-01	Ben Avon Heights	37
+160360	2023-01-01	Ben Avon Heights	10
+160361	2023-04-01	Ben Avon Heights	3
+160362	2023-06-01	Ben Avon Heights	1
+160363	2022-09-01	Bethel Park	634
+160364	2023-02-01	Blawnox	12
+160365	2022-09-01	Bluff (Pittsburgh)	15
+160366	2022-11-01	Bluff (Pittsburgh)	43
+160367	2023-01-01	Bluff (Pittsburgh)	16
+160368	2023-04-01	Bluff (Pittsburgh)	8
+160369	2022-09-01	Bon Air (Pittsburgh)	5
+160370	2022-11-01	Bon Air (Pittsburgh)	37
+160371	2023-01-01	Bon Air (Pittsburgh)	10
+160372	2023-04-01	Bon Air (Pittsburgh)	2
+160373	2022-09-01	Brackenridge	19
+160374	2022-11-01	Brackenridge	143
+160375	2023-01-01	Brackenridge	35
+160376	2023-04-01	Brackenridge	7
+160377	2023-06-01	Brackenridge	6
+160378	2023-08-01	Brackenridge	1
+160379	2022-10-01	Braddock	44
+160380	2022-12-01	Braddock	33
+160381	2023-03-01	Braddock	6
+160382	2023-05-01	Braddock	8
+160383	2023-07-01	Braddock	4
+160384	2022-09-01	Braddock Hills	19
+160385	2022-11-01	Braddock Hills	122
+160386	2023-01-01	Braddock Hills	26
+160387	2023-04-01	Braddock Hills	4
+160388	2023-06-01	Braddock Hills	1
+160389	2023-08-01	Braddock Hills	2
+160390	2023-02-01	Bradford Woods	4
+160391	2023-09-01	Bradford Woods	2
+160392	2023-10-01	Brentwood	2
+160393	2022-10-01	Bridgeville	309
+160394	2022-12-01	Bridgeville	111
+160395	2023-03-01	Bridgeville	12
+160396	2023-05-01	Bridgeville	3
+160397	2023-07-01	Bridgeville	3
+160398	2022-09-01	Brighton Heights (Pittsburgh)	76
+160399	2022-11-01	Brighton Heights (Pittsburgh)	408
+160400	2023-01-01	Brighton Heights (Pittsburgh)	104
+160401	2023-04-01	Brighton Heights (Pittsburgh)	26
+160402	2023-06-01	Brighton Heights (Pittsburgh)	10
+160403	2023-10-01	Brighton Heights (Pittsburgh)	1
+160404	2022-11-01	Brookline (Pittsburgh)	751
+160405	2023-01-01	Brookline (Pittsburgh)	201
+160406	2023-04-01	Brookline (Pittsburgh)	35
+160407	2023-06-01	Brookline (Pittsburgh)	9
+160408	2023-08-01	Brookline (Pittsburgh)	14
+160409	2023-10-01	Brookline (Pittsburgh)	3
+160410	2022-09-01	Carnegie	88
+160411	2022-11-01	Carnegie	406
+160412	2023-01-01	Carnegie	82
+160413	2023-04-01	Carnegie	20
+160414	2023-06-01	Carnegie	6
+160415	2023-08-01	Carnegie	10
+160416	2023-10-01	Carnegie	1
+160417	2022-09-01	Carrick (Pittsburgh)	104
+160418	2022-11-01	Carrick (Pittsburgh)	389
+160419	2023-01-01	Carrick (Pittsburgh)	102
+160420	2023-04-01	Carrick (Pittsburgh)	30
+160421	2023-06-01	Carrick (Pittsburgh)	16
+160422	2023-08-01	Carrick (Pittsburgh)	16
+160423	2023-10-01	Carrick (Pittsburgh)	1
+160424	2023-07-01	Castle Shannon	6
+160425	2023-02-01	Central Business District (Pittsburgh)	44
+160426	2023-09-01	Central Business District (Pittsburgh)	4
+160427	2023-02-01	Central Lawrenceville (Pittsburgh)	54
+160428	2023-09-01	Central Lawrenceville (Pittsburgh)	7
+160429	2022-09-01	Central Northside (Pittsburgh)	74
+160430	2022-11-01	Central Northside (Pittsburgh)	221
+160431	2023-01-01	Central Northside (Pittsburgh)	51
+160432	2023-04-01	Central Northside (Pittsburgh)	10
+160433	2023-06-01	Central Northside (Pittsburgh)	4
+160434	2023-08-01	Central Northside (Pittsburgh)	4
+160435	2022-09-01	Central Oakland (Pittsburgh)	58
+160436	2022-11-01	Central Oakland (Pittsburgh)	111
+160437	2023-01-01	Central Oakland (Pittsburgh)	25
+160438	2023-04-01	Central Oakland (Pittsburgh)	3
+160439	2023-06-01	Central Oakland (Pittsburgh)	1
+160440	2023-10-01	Central Oakland (Pittsburgh)	1
+160441	2022-10-01	Chalfant	62
+160442	2022-12-01	Chalfant	21
+160443	2023-03-01	Chalfant	2
+160444	2023-05-01	Chalfant	2
+160445	2022-10-01	Chartiers City (Pittsburgh)	25
+160446	2022-12-01	Chartiers City (Pittsburgh)	14
+160447	2023-03-01	Chartiers City (Pittsburgh)	4
+160448	2022-10-01	Chateau (Pittsburgh)	3
+160449	2022-10-01	Cheswick	136
+160450	2022-12-01	Cheswick	60
+160451	2023-03-01	Cheswick	12
+160452	2023-05-01	Cheswick	2
+160453	2023-07-01	Cheswick	4
+160454	2023-02-01	Clairton	35
+160455	2023-02-01	Collier	50
+160456	2023-09-01	Collier	1
+160457	2023-06-01	Coraopolis	9
+160458	2023-08-01	Coraopolis	4
+160459	2023-10-01	Coraopolis	2
+160460	2022-09-01	Crafton Heights (Pittsburgh)	38
+160461	2022-10-01	Allegheny West (Pittsburgh)	53
+160462	2022-12-01	Allegheny West (Pittsburgh)	14
+160463	2023-03-01	Allegheny West (Pittsburgh)	2
+160464	2022-09-01	Allentown (Pittsburgh)	34
+160465	2022-11-01	Allentown (Pittsburgh)	60
+160466	2023-01-01	Allentown (Pittsburgh)	26
+160467	2023-04-01	Allentown (Pittsburgh)	6
+160468	2023-06-01	Allentown (Pittsburgh)	2
+160469	2023-08-01	Allentown (Pittsburgh)	1
+160470	2022-09-01	Arlington (Pittsburgh)	19
+160471	2022-11-01	Arlington (Pittsburgh)	42
+160472	2023-01-01	Arlington (Pittsburgh)	13
+160473	2023-04-01	Arlington (Pittsburgh)	1
+160474	2023-06-01	Arlington (Pittsburgh)	2
+160475	2023-08-01	Arlington (Pittsburgh)	2
+160476	2022-09-01	Arlington Heights (Pittsburgh)	11
+160477	2023-02-01	Aspinwall	27
+160478	2023-09-01	Aspinwall	3
+160479	2023-02-01	Avalon	22
+160480	2023-09-01	Avalon	6
+160481	2022-10-01	Baldwin Borough	1461
+160482	2022-12-01	Baldwin Borough	601
+160483	2023-03-01	Baldwin Borough	108
+160484	2023-05-01	Baldwin Borough	53
+160485	2023-07-01	Baldwin Borough	17
+160486	2023-02-01	Banksville (Pittsburgh)	20
+160487	2022-10-01	Bedford Dwellings (Pittsburgh)	26
+160488	2022-12-01	Bedford Dwellings (Pittsburgh)	15
+160489	2023-03-01	Bedford Dwellings (Pittsburgh)	4
+160490	2023-05-01	Bedford Dwellings (Pittsburgh)	3
+160491	2022-09-01	Beechview (Pittsburgh)	81
+160492	2022-11-01	Beechview (Pittsburgh)	383
+160493	2023-01-01	Beechview (Pittsburgh)	94
+160494	2023-04-01	Beechview (Pittsburgh)	24
+160495	2023-06-01	Beechview (Pittsburgh)	12
+160496	2023-08-01	Beechview (Pittsburgh)	3
+160497	2023-10-01	Beechview (Pittsburgh)	1
+160498	2023-02-01	Bell Acres	8
+160499	2023-02-01	Bellevue	52
+160500	2023-09-01	Bellevue	10
+160501	2022-11-01	Beltzhoover (Pittsburgh)	45
+160502	2023-01-01	Beltzhoover (Pittsburgh)	19
+160503	2023-04-01	Beltzhoover (Pittsburgh)	4
+160504	2023-06-01	Beltzhoover (Pittsburgh)	4
+160505	2023-08-01	Beltzhoover (Pittsburgh)	1
+160506	2023-02-01	Ben Avon	14
+160507	2023-09-01	Ben Avon	3
+160508	2022-10-01	Ben Avon Heights	32
+160509	2022-12-01	Ben Avon Heights	20
+160510	2023-03-01	Ben Avon Heights	2
+160511	2023-05-01	Ben Avon Heights	2
+160512	2022-11-01	Bethel Park	2387
+160513	2023-01-01	Bethel Park	540
+160514	2023-04-01	Bethel Park	79
+160515	2023-06-01	Bethel Park	43
+160516	2023-08-01	Bethel Park	36
+160517	2023-10-01	Bethel Park	2
+160518	2022-10-01	Blawnox	98
+160519	2022-12-01	Blawnox	41
+160520	2023-03-01	Blawnox	5
+160521	2023-05-01	Blawnox	8
+160522	2023-07-01	Blawnox	1
+160523	2022-09-01	Bloomfield (Pittsburgh)	233
+160524	2022-11-01	Bloomfield (Pittsburgh)	512
+160525	2023-01-01	Bloomfield (Pittsburgh)	171
+160526	2023-04-01	Bloomfield (Pittsburgh)	28
+160527	2023-06-01	Bloomfield (Pittsburgh)	20
+160528	2023-08-01	Bloomfield (Pittsburgh)	11
+160529	2023-10-01	Bloomfield (Pittsburgh)	1
+160530	2022-10-01	Bluff (Pittsburgh)	54
+160531	2022-12-01	Bluff (Pittsburgh)	22
+160532	2023-03-01	Bluff (Pittsburgh)	9
+160533	2023-05-01	Bluff (Pittsburgh)	4
+160534	2023-07-01	Bluff (Pittsburgh)	2
+160535	2022-10-01	Bon Air (Pittsburgh)	52
+160536	2022-12-01	Bon Air (Pittsburgh)	24
+160537	2023-02-01	Brackenridge	9
+160538	2023-02-01	Braddock	6
+160539	2023-02-01	Braddock Hills	13
+160540	2023-09-01	Braddock Hills	1
+160541	2022-09-01	Bradford Woods	34
+160542	2022-11-01	Bradford Woods	99
+160543	2023-01-01	Bradford Woods	19
+160544	2023-04-01	Bradford Woods	3
+160545	2023-06-01	Bradford Woods	1
+160546	2023-08-01	Bradford Woods	2
+160547	2023-10-01	Bradford Woods	1
+160548	2023-02-01	Brentwood	45
+160549	2023-09-01	Brentwood	8
+160550	2022-09-01	Bridgeville	59
+160551	2022-11-01	Bridgeville	247
+160552	2023-01-01	Bridgeville	55
+160553	2023-04-01	Bridgeville	8
+160554	2023-06-01	Bridgeville	8
+160555	2023-08-01	Bridgeville	5
+160556	2023-10-01	Bridgeville	1
+160557	2023-02-01	Brighton Heights (Pittsburgh)	56
+160558	2023-09-01	Brighton Heights (Pittsburgh)	5
+160559	2022-09-01	Brookline (Pittsburgh)	206
+160560	2022-10-01	California-Kirkbride (Pittsburgh)	31
+160561	2022-12-01	California-Kirkbride (Pittsburgh)	11
+160562	2023-03-01	California-Kirkbride (Pittsburgh)	1
+160563	2023-05-01	California-Kirkbride (Pittsburgh)	2
+160564	2022-10-01	Carnegie	438
+160565	2022-12-01	Carnegie	189
+160566	2023-03-01	Carnegie	31
+160567	2023-05-01	Carnegie	19
+160568	2023-07-01	Carnegie	7
+160569	2022-10-01	Carrick (Pittsburgh)	421
+160570	2022-12-01	Carrick (Pittsburgh)	205
+160571	2023-03-01	Carrick (Pittsburgh)	37
+160572	2023-05-01	Carrick (Pittsburgh)	26
+160573	2023-07-01	Carrick (Pittsburgh)	10
+160574	2022-10-01	Castle Shannon	582
+160575	2022-12-01	Castle Shannon	228
+160576	2023-03-01	Castle Shannon	28
+160577	2023-05-01	Castle Shannon	17
+160578	2022-11-01	Central Business District (Pittsburgh)	210
+160579	2023-01-01	Central Business District (Pittsburgh)	43
+160580	2023-04-01	Central Business District (Pittsburgh)	12
+160581	2023-06-01	Central Business District (Pittsburgh)	4
+160582	2023-08-01	Central Business District (Pittsburgh)	1
+160583	2023-10-01	Central Business District (Pittsburgh)	1
+160584	2022-09-01	Central Lawrenceville (Pittsburgh)	90
+160585	2022-11-01	Central Lawrenceville (Pittsburgh)	308
+160586	2023-01-01	Central Lawrenceville (Pittsburgh)	81
+160587	2023-04-01	Central Lawrenceville (Pittsburgh)	19
+160588	2023-06-01	Central Lawrenceville (Pittsburgh)	13
+160589	2023-08-01	Central Lawrenceville (Pittsburgh)	3
+160590	2023-10-01	Central Lawrenceville (Pittsburgh)	3
+160591	2023-02-01	Central Northside (Pittsburgh)	24
+160592	2022-10-01	Central Oakland (Pittsburgh)	115
+160593	2022-12-01	Central Oakland (Pittsburgh)	56
+160594	2023-03-01	Central Oakland (Pittsburgh)	10
+160595	2023-05-01	Central Oakland (Pittsburgh)	7
+160596	2023-07-01	Central Oakland (Pittsburgh)	2
+160597	2023-02-01	Chalfant	4
+160598	2023-03-01	Chateau (Pittsburgh)	1
+160599	2023-02-01	Cheswick	13
+160600	2023-09-01	Cheswick	2
+160601	2022-09-01	Churchill	74
+160602	2022-11-01	Churchill	293
+160603	2023-01-01	Churchill	68
+160604	2023-04-01	Churchill	9
+160605	2023-06-01	Churchill	11
+160606	2023-08-01	Churchill	6
+160607	2023-09-01	Clairton	1
+160608	2022-10-01	Collier	692
+160609	2022-12-01	Collier	271
+160610	2023-03-01	Collier	46
+160611	2023-05-01	Collier	17
+160612	2023-07-01	Collier	12
+160613	2022-10-01	Aleppo	146
+160614	2022-12-01	Aleppo	56
+160615	2023-03-01	Aleppo	2
+160616	2023-05-01	Aleppo	4
+160617	2023-07-01	Aleppo	1
+160618	2023-02-01	Allegheny Center (Pittsburgh)	11
+160619	2023-09-01	Allegheny Center (Pittsburgh)	2
+160620	2023-05-01	Allegheny West (Pittsburgh)	3
+160621	2023-07-01	Allegheny West (Pittsburgh)	1
+160622	2022-10-01	Allentown (Pittsburgh)	82
+160623	2022-12-01	Allentown (Pittsburgh)	49
+160624	2023-03-01	Allentown (Pittsburgh)	6
+160625	2023-05-01	Allentown (Pittsburgh)	20
+160626	2023-07-01	Allentown (Pittsburgh)	3
+160627	2022-11-01	Arlington Heights (Pittsburgh)	2
+160628	2023-01-01	Arlington Heights (Pittsburgh)	1
+160629	2023-08-01	Arlington Heights (Pittsburgh)	9
+160630	2022-10-01	Aspinwall	275
+160631	2022-12-01	Aspinwall	106
+160632	2023-03-01	Aspinwall	18
+160633	2023-05-01	Aspinwall	7
+160634	2022-09-01	Baldwin Borough	270
+160635	2022-11-01	Baldwin Borough	1150
+160636	2023-01-01	Baldwin Borough	312
+160637	2023-04-01	Baldwin Borough	56
+160638	2023-06-01	Baldwin Borough	33
+160639	2023-08-01	Baldwin Borough	24
+160640	2023-10-01	Baldwin Borough	2
+160641	2022-10-01	Baldwin Township	174
+160642	2022-12-01	Baldwin Township	65
+160643	2023-03-01	Baldwin Township	5
+160644	2023-05-01	Baldwin Township	6
+160645	2023-07-01	Baldwin Township	1
+160646	2022-10-01	Banksville (Pittsburgh)	262
+160647	2022-12-01	Banksville (Pittsburgh)	132
+160648	2023-03-01	Banksville (Pittsburgh)	15
+160649	2023-05-01	Banksville (Pittsburgh)	2
+160650	2023-07-01	Banksville (Pittsburgh)	1
+160651	2023-02-01	Beechview (Pittsburgh)	49
+160652	2023-09-01	Beechview (Pittsburgh)	11
+160653	2022-10-01	Bell Acres	114
+160654	2022-12-01	Bell Acres	45
+160655	2023-03-01	Bell Acres	8
+160656	2023-05-01	Bell Acres	3
+160657	2023-07-01	Bell Acres	2
+160658	2022-10-01	Bellevue	440
+160659	2022-12-01	Bellevue	201
+160660	2023-03-01	Bellevue	24
+160661	2023-05-01	Bellevue	15
+160662	2023-07-01	Bellevue	17
+160663	2023-02-01	Beltzhoover (Pittsburgh)	9
+160664	2022-11-01	Ben Avon	119
+160665	2023-01-01	Ben Avon	41
+160666	2023-04-01	Ben Avon	5
+160667	2023-06-01	Ben Avon	4
+160668	2023-08-01	Ben Avon	1
+160669	2023-02-01	Ben Avon Heights	4
+160670	2023-02-01	Bethel Park	190
+160671	2023-09-01	Bethel Park	32
+160672	2022-10-01	Bloomfield (Pittsburgh)	830
+160673	2022-12-01	Bloomfield (Pittsburgh)	327
+160674	2023-03-01	Bloomfield (Pittsburgh)	44
+160675	2023-05-01	Bloomfield (Pittsburgh)	24
+160676	2023-07-01	Bloomfield (Pittsburgh)	12
+160677	2023-02-01	Bluff (Pittsburgh)	10
+160678	2023-02-01	Bon Air (Pittsburgh)	9
+160679	2022-10-01	Brackenridge	119
+160680	2022-12-01	Brackenridge	62
+160681	2023-03-01	Brackenridge	8
+160682	2023-05-01	Brackenridge	4
+160683	2022-09-01	Braddock	10
+160684	2022-11-01	Braddock	51
+160685	2023-01-01	Braddock	22
+160686	2023-04-01	Braddock	3
+160687	2023-06-01	Braddock	3
+160688	2023-08-01	Braddock	3
+160689	2022-10-01	Braddock Hills	111
+160690	2022-12-01	Braddock Hills	44
+160691	2023-03-01	Braddock Hills	7
+160692	2023-05-01	Braddock Hills	9
+160693	2023-07-01	Braddock Hills	4
+160694	2022-10-01	Bradford Woods	119
+160695	2022-12-01	Bradford Woods	37
+160696	2023-03-01	Bradford Woods	1
+160697	2023-05-01	Bradford Woods	2
+160698	2023-07-01	Bradford Woods	2
+160699	2022-10-01	Brentwood	540
+160700	2022-12-01	Brentwood	218
+160701	2023-03-01	Brentwood	39
+160702	2023-05-01	Brentwood	22
+160703	2023-07-01	Brentwood	14
+160704	2022-10-01	Brookline (Pittsburgh)	869
+160705	2022-12-01	Brookline (Pittsburgh)	365
+160706	2023-03-01	Brookline (Pittsburgh)	49
+160707	2023-05-01	Brookline (Pittsburgh)	25
+160708	2023-07-01	Brookline (Pittsburgh)	6
+160709	2023-02-01	California-Kirkbride (Pittsburgh)	3
+160710	2023-02-01	Carnegie	36
+160711	2023-09-01	Carnegie	6
+160712	2023-02-01	Carrick (Pittsburgh)	40
+160713	2023-09-01	Carrick (Pittsburgh)	8
+160714	2023-02-01	Castle Shannon	36
+160715	2023-09-01	Castle Shannon	4
+160716	2022-09-01	Central Business District (Pittsburgh)	88
+160717	2022-12-01	Central Lawrenceville (Pittsburgh)	176
+160718	2023-05-01	Central Lawrenceville (Pittsburgh)	14
+160719	2023-07-01	Central Lawrenceville (Pittsburgh)	7
+160720	2023-09-01	Central Northside (Pittsburgh)	4
+160721	2023-02-01	Central Oakland (Pittsburgh)	16
+160722	2022-09-01	Chalfant	6
+160723	2022-11-01	Chalfant	33
+160724	2023-01-01	Chalfant	10
+160725	2023-04-01	Chalfant	4
+160726	2022-09-01	Chartiers City (Pittsburgh)	7
+160727	2022-11-01	Chartiers City (Pittsburgh)	22
+160728	2023-01-01	Chartiers City (Pittsburgh)	10
+160729	2023-04-01	Chartiers City (Pittsburgh)	1
+160730	2022-11-01	Chateau (Pittsburgh)	6
+160731	2023-01-01	Chateau (Pittsburgh)	1
+160732	2023-01-01	Cheswick	25
+160733	2023-04-01	Cheswick	10
+160734	2023-06-01	Cheswick	3
+160735	2023-08-01	Cheswick	1
+160736	2023-02-01	Churchill	28
+160737	2023-09-01	Churchill	8
+160738	2022-10-01	Clairton	262
+160739	2022-12-01	Clairton	101
+160740	2023-03-01	Clairton	22
+160741	2023-05-01	Clairton	20
+160742	2023-07-01	Clairton	4
+160743	2022-09-01	Collier	166
+160744	2022-11-01	Collier	540
+160745	2023-01-01	Collier	137
+160746	2023-04-01	Collier	18
+160747	2023-06-01	Collier	11
+160748	2023-08-01	Collier	8
+160749	2022-10-01	Coraopolis	309
+160750	2022-12-01	Coraopolis	143
+160751	2023-03-01	Coraopolis	10
+160752	2023-05-01	Coraopolis	11
+160753	2023-07-01	Coraopolis	4
+160754	2022-10-01	Crafton	408
+160755	2022-12-01	Crafton	165
+160756	2023-03-01	Crafton	25
+160757	2023-05-01	Crafton	14
+160758	2023-07-01	Crafton	4
+160759	2023-02-01	Crafton Heights (Pittsburgh)	18
+160760	2023-09-01	Crafton Heights (Pittsburgh)	2
+160761	2023-02-01	Crescent	11
+160762	2023-09-01	Dormont	5
+160763	2023-02-01	Duquesne	26
+160764	2023-09-01	Duquesne	5
+160765	2022-10-01	Duquesne Heights (Pittsburgh)	170
+160766	2022-12-01	Duquesne Heights (Pittsburgh)	78
+160767	2023-03-01	Duquesne Heights (Pittsburgh)	9
+160768	2023-05-01	Duquesne Heights (Pittsburgh)	9
+160769	2023-07-01	Duquesne Heights (Pittsburgh)	1
+160770	2022-12-01	East Allegheny (Pittsburgh)	46
+160771	2023-05-01	East Allegheny (Pittsburgh)	23
+160772	2022-10-01	East Carnegie (Pittsburgh)	22
+160773	2022-12-01	East Carnegie (Pittsburgh)	14
+160774	2023-03-01	East Carnegie (Pittsburgh)	4
+160775	2022-11-01	Crafton Heights (Pittsburgh)	185
+160776	2023-01-01	Crafton Heights (Pittsburgh)	46
+160777	2023-04-01	Crafton Heights (Pittsburgh)	18
+160778	2022-10-01	Crawford-Roberts (Pittsburgh)	148
+160779	2022-12-01	Crawford-Roberts (Pittsburgh)	66
+160780	2023-03-01	Crawford-Roberts (Pittsburgh)	7
+160781	2023-05-01	Crawford-Roberts (Pittsburgh)	8
+160782	2023-07-01	Crawford-Roberts (Pittsburgh)	4
+160783	2022-10-01	Crescent	126
+160784	2022-12-01	Crescent	68
+160785	2023-03-01	Crescent	12
+160786	2023-05-01	Crescent	7
+160787	2022-09-01	Dormont	127
+160788	2022-11-01	Dormont	511
+160789	2023-01-01	Dormont	143
+160790	2023-04-01	Dormont	24
+160791	2023-06-01	Dormont	8
+160792	2023-08-01	Dormont	12
+160793	2023-10-01	Dormont	1
+160794	2022-10-01	Dravosburg	72
+160795	2022-12-01	Dravosburg	40
+160796	2023-03-01	Dravosburg	4
+160797	2023-05-01	Dravosburg	2
+160798	2022-09-01	Duquesne	18
+160799	2022-11-01	Duquesne	122
+160800	2023-01-01	Duquesne	49
+160801	2023-04-01	Duquesne	17
+160802	2023-06-01	Duquesne	9
+160803	2023-08-01	Duquesne	4
+160804	2023-02-01	Duquesne Heights (Pittsburgh)	13
+160805	2023-02-01	East Allegheny (Pittsburgh)	17
+160806	2022-09-01	East Carnegie (Pittsburgh)	4
+160807	2022-11-01	East Carnegie (Pittsburgh)	17
+160808	2023-01-01	East Carnegie (Pittsburgh)	12
+160809	2023-04-01	East Carnegie (Pittsburgh)	1
+160810	2023-06-01	East Carnegie (Pittsburgh)	1
+160811	2023-02-01	East Deer	9
+160812	2022-10-01	East Liberty (Pittsburgh)	372
+160813	2022-12-01	East Liberty (Pittsburgh)	157
+160814	2023-03-01	East Liberty (Pittsburgh)	30
+160815	2023-05-01	East Liberty (Pittsburgh)	23
+160816	2023-07-01	East Liberty (Pittsburgh)	17
+160817	2022-10-01	East Mckeesport	108
+160818	2022-12-01	East Mckeesport	61
+160819	2023-03-01	East Mckeesport	9
+160820	2023-05-01	East Mckeesport	2
+160821	2023-07-01	East Mckeesport	1
+160822	2022-10-01	East Pittsburgh	66
+160823	2022-12-01	East Pittsburgh	21
+160824	2023-03-01	East Pittsburgh	6
+160825	2023-07-01	East Pittsburgh	3
+160826	2023-09-01	Edgewood	4
+160827	2022-10-01	Elizabeth Borough	62
+160828	2022-12-01	Elizabeth Borough	28
+160829	2023-03-01	Elizabeth Borough	4
+160830	2023-05-01	Elizabeth Borough	1
+160831	2022-12-01	Elizabeth Township	269
+160832	2023-05-01	Elizabeth Township	18
+160833	2023-07-01	Elizabeth Township	5
+160834	2022-09-01	Elliott (Pittsburgh)	15
+160835	2022-11-01	Elliott (Pittsburgh)	97
+160836	2023-01-01	Elliott (Pittsburgh)	16
+160837	2023-04-01	Elliott (Pittsburgh)	4
+160838	2023-06-01	Elliott (Pittsburgh)	1
+160839	2023-08-01	Elliott (Pittsburgh)	2
+160840	2023-10-01	Elliott (Pittsburgh)	1
+160841	2022-11-01	Emsworth	150
+160842	2023-01-01	Emsworth	22
+160843	2023-04-01	Emsworth	9
+160844	2023-06-01	Emsworth	6
+160845	2023-08-01	Emsworth	1
+160846	2022-10-01	Esplen (Pittsburgh)	11
+160847	2022-12-01	Esplen (Pittsburgh)	5
+160848	2023-03-01	Esplen (Pittsburgh)	2
+160849	2023-07-01	Esplen (Pittsburgh)	1
+160850	2023-09-01	Etna	4
+160851	2022-09-01	Fairywood (Pittsburgh)	8
+160852	2022-11-01	Fairywood (Pittsburgh)	59
+160853	2023-01-01	Fairywood (Pittsburgh)	12
+160854	2023-04-01	Fairywood (Pittsburgh)	3
+160855	2023-08-01	Fairywood (Pittsburgh)	1
+160856	2022-10-01	Fawn	102
+160857	2022-12-01	Fawn	44
+160858	2023-03-01	Fawn	2
+160859	2023-05-01	Fawn	1
+160860	2022-10-01	Fineview (Pittsburgh)	58
+160861	2022-12-01	Fineview (Pittsburgh)	19
+160862	2023-03-01	Fineview (Pittsburgh)	4
+160863	2023-05-01	Fineview (Pittsburgh)	5
+160864	2023-07-01	Fineview (Pittsburgh)	1
+160865	2022-10-01	Forest Hills	644
+160866	2022-12-01	Forest Hills	305
+160867	2023-03-01	Forest Hills	28
+160868	2023-05-01	Forest Hills	17
+160869	2023-07-01	Forest Hills	10
+160870	2023-02-01	Forward	4
+160871	2022-09-01	Franklin Park	282
+160872	2022-11-01	Franklin Park	1154
+160873	2023-01-01	Franklin Park	345
+160874	2023-04-01	Franklin Park	47
+160875	2023-06-01	Franklin Park	44
+160876	2022-09-01	Frazer	6
+160877	2022-11-01	Frazer	56
+160878	2023-01-01	Frazer	8
+160879	2023-04-01	Frazer	1
+160880	2023-06-01	Frazer	1
+160881	2022-10-01	Friendship (Pittsburgh)	147
+160882	2022-12-01	Friendship (Pittsburgh)	74
+160883	2023-03-01	Friendship (Pittsburgh)	8
+160884	2023-05-01	Friendship (Pittsburgh)	8
+160885	2023-07-01	Friendship (Pittsburgh)	1
+160886	2023-02-01	Garfield (Pittsburgh)	26
+160887	2022-09-01	Glassport	21
+160888	2022-11-01	Glassport	135
+160889	2023-01-01	Glassport	35
+160890	2023-04-01	Glassport	9
+160891	2023-06-01	Glassport	3
+160892	2023-08-01	Glassport	1
+160893	2022-09-01	Glen Hazel (Pittsburgh)	2
+160894	2022-11-01	Glen Hazel (Pittsburgh)	112
+160895	2023-01-01	Glen Hazel (Pittsburgh)	2
+160896	2023-04-01	Glen Hazel (Pittsburgh)	3
+160897	2023-06-01	Glen Hazel (Pittsburgh)	2
+160898	2023-08-01	Glen Hazel (Pittsburgh)	2
+160899	2022-10-01	Glenfield	15
+160900	2022-12-01	Glenfield	9
+160901	2023-05-01	Glenfield	1
+160902	2023-07-01	Glenfield	1
+160903	2022-09-01	Green Tree	93
+160904	2022-11-01	Green Tree	340
+160905	2023-01-01	Green Tree	84
+160906	2023-04-01	Green Tree	9
+160907	2023-06-01	Green Tree	14
+160908	2023-08-01	Green Tree	3
+160909	2022-10-01	Greenfield (Pittsburgh)	697
+160910	2022-12-01	Greenfield (Pittsburgh)	276
+160911	2023-03-01	Greenfield (Pittsburgh)	36
+160912	2023-05-01	Greenfield (Pittsburgh)	30
+160913	2023-07-01	Greenfield (Pittsburgh)	14
+160914	2022-09-01	Hampton	419
+160915	2022-11-01	Hampton	1280
+160916	2023-01-01	Hampton	275
+160917	2023-04-01	Hampton	42
+160918	2023-06-01	Hampton	35
+160919	2023-08-01	Hampton	21
+160920	2023-10-01	Hampton	3
+160921	2022-09-01	Harmar	67
+160922	2022-11-01	Harmar	197
+160923	2023-01-01	Harmar	47
+160924	2023-04-01	Harmar	9
+160925	2023-06-01	Harmar	6
+160926	2023-08-01	Harmar	1
+160927	2022-10-01	Harrison	565
+160928	2022-12-01	Harrison	261
+160929	2023-03-01	Harrison	36
+160930	2023-05-01	Harrison	18
+160931	2023-07-01	Harrison	6
+160932	2022-10-01	Hays (Pittsburgh)	17
+160933	2022-12-01	Hays (Pittsburgh)	7
+160934	2023-03-01	Hays (Pittsburgh)	3
+160935	2023-05-01	Hays (Pittsburgh)	1
+160936	2022-10-01	Hazelwood (Pittsburgh)	232
+160937	2022-12-01	Hazelwood (Pittsburgh)	90
+160938	2023-03-01	Hazelwood (Pittsburgh)	12
+160939	2022-09-01	Coraopolis	44
+160940	2022-11-01	Coraopolis	280
+160941	2023-01-01	Coraopolis	67
+160942	2023-04-01	Coraopolis	13
+160943	2023-02-01	Crafton	27
+160944	2023-09-01	Crafton	2
+160945	2023-06-01	Crafton Heights (Pittsburgh)	13
+160946	2023-08-01	Crafton Heights (Pittsburgh)	5
+160947	2023-10-01	Crafton Heights (Pittsburgh)	1
+160948	2022-09-01	Crawford-Roberts (Pittsburgh)	23
+160949	2022-11-01	Crawford-Roberts (Pittsburgh)	123
+160950	2023-01-01	Crawford-Roberts (Pittsburgh)	55
+160951	2023-04-01	Crawford-Roberts (Pittsburgh)	10
+160952	2023-06-01	Crawford-Roberts (Pittsburgh)	3
+160953	2023-08-01	Crawford-Roberts (Pittsburgh)	2
+160954	2022-09-01	Crescent	23
+160955	2022-11-01	Crescent	120
+160956	2023-01-01	Crescent	24
+160957	2023-04-01	Crescent	4
+160958	2023-06-01	Crescent	2
+160959	2022-10-01	Dormont	619
+160960	2022-12-01	Dormont	258
+160961	2023-03-01	Dormont	34
+160962	2023-05-01	Dormont	14
+160963	2023-07-01	Dormont	7
+160964	2023-02-01	Dravosburg	6
+160965	2023-10-01	Duquesne	1
+160966	2023-09-01	Duquesne Heights (Pittsburgh)	2
+160967	2022-09-01	East Allegheny (Pittsburgh)	31
+160968	2022-11-01	East Allegheny (Pittsburgh)	131
+160969	2023-01-01	East Allegheny (Pittsburgh)	31
+160970	2023-04-01	East Allegheny (Pittsburgh)	8
+160971	2023-06-01	East Allegheny (Pittsburgh)	4
+160972	2023-08-01	East Allegheny (Pittsburgh)	1
+160973	2022-10-01	East Deer	74
+160974	2022-12-01	East Deer	58
+160975	2023-03-01	East Deer	5
+160976	2023-05-01	East Deer	2
+160977	2023-07-01	East Deer	1
+160978	2023-02-01	East Hills (Pittsburgh)	17
+160979	2023-09-01	East Hills (Pittsburgh)	3
+160980	2022-09-01	East Liberty (Pittsburgh)	101
+160981	2022-11-01	East Liberty (Pittsburgh)	314
+160982	2023-01-01	East Liberty (Pittsburgh)	95
+160983	2023-04-01	East Liberty (Pittsburgh)	16
+160984	2023-06-01	East Liberty (Pittsburgh)	21
+160985	2023-08-01	East Liberty (Pittsburgh)	7
+160986	2023-10-01	East Liberty (Pittsburgh)	3
+160987	2023-02-01	East Mckeesport	13
+160988	2023-02-01	East Pittsburgh	8
+160989	2023-09-01	East Pittsburgh	1
+160990	2022-10-01	Edgewood	414
+160991	2022-12-01	Edgewood	145
+160992	2023-03-01	Edgewood	23
+160993	2023-05-01	Edgewood	8
+160994	2023-07-01	Edgewood	4
+160995	2022-10-01	Edgeworth	135
+160996	2022-12-01	Edgeworth	49
+160997	2023-03-01	Edgeworth	10
+160998	2023-05-01	Edgeworth	1
+160999	2023-07-01	Edgeworth	2
+161000	2023-02-01	Elizabeth Borough	7
+161001	2023-09-01	Elizabeth Borough	1
+161002	2022-09-01	Elizabeth Township	150
+161003	2022-11-01	Elizabeth Township	669
+161004	2023-01-01	Elizabeth Township	133
+161005	2023-04-01	Elizabeth Township	22
+161006	2023-06-01	Elizabeth Township	6
+161007	2023-08-01	Elizabeth Township	9
+161008	2023-10-01	Elizabeth Township	1
+161009	2022-09-01	Emsworth	18
+161010	2022-09-01	Esplen (Pittsburgh)	3
+161011	2022-11-01	Esplen (Pittsburgh)	5
+161012	2023-02-01	Etna	19
+161013	2022-10-01	Fairywood (Pittsburgh)	41
+161014	2022-12-01	Fairywood (Pittsburgh)	18
+161015	2023-03-01	Fairywood (Pittsburgh)	4
+161016	2023-05-01	Fairywood (Pittsburgh)	3
+161017	2023-07-01	Fairywood (Pittsburgh)	1
+161018	2023-07-01	Fawn	2
+161019	2022-09-01	Findlay	52
+161020	2022-11-01	Findlay	307
+161021	2023-01-01	Findlay	50
+161022	2023-04-01	Findlay	12
+161023	2023-06-01	Findlay	6
+161024	2023-08-01	Findlay	5
+161025	2022-09-01	Fineview (Pittsburgh)	7
+161026	2022-11-01	Fineview (Pittsburgh)	49
+161027	2023-01-01	Fineview (Pittsburgh)	16
+161028	2023-04-01	Fineview (Pittsburgh)	6
+161029	2023-06-01	Fineview (Pittsburgh)	1
+161030	2023-08-01	Fineview (Pittsburgh)	1
+161031	2022-09-01	Forest Hills	204
+161032	2022-11-01	Forest Hills	524
+161033	2023-01-01	Forest Hills	128
+161034	2023-04-01	Forest Hills	18
+161035	2023-06-01	Forest Hills	12
+161036	2023-09-01	Forward	1
+161037	2022-09-01	Fox Chapel	252
+161038	2022-11-01	Fox Chapel	572
+161039	2023-01-01	Fox Chapel	139
+161040	2023-04-01	Fox Chapel	10
+161041	2023-06-01	Fox Chapel	13
+161042	2023-08-01	Fox Chapel	4
+161043	2023-10-01	Fox Chapel	1
+161044	2022-10-01	Franklin Park	1257
+161045	2022-12-01	Franklin Park	635
+161046	2023-03-01	Franklin Park	81
+161047	2023-05-01	Franklin Park	50
+161048	2023-07-01	Franklin Park	22
+161049	2023-02-01	Friendship (Pittsburgh)	11
+161050	2022-09-01	Garfield (Pittsburgh)	62
+161051	2022-11-01	Garfield (Pittsburgh)	196
+161052	2023-01-01	Garfield (Pittsburgh)	42
+161053	2023-04-01	Garfield (Pittsburgh)	13
+161054	2023-06-01	Garfield (Pittsburgh)	12
+161055	2023-08-01	Garfield (Pittsburgh)	6
+161056	2023-02-01	Glassport	18
+161057	2023-09-01	Glassport	2
+161058	2023-02-01	Glen Hazel (Pittsburgh)	3
+161059	2022-10-01	Glen Osborne	54
+161060	2022-12-01	Glen Osborne	22
+161061	2023-03-01	Glen Osborne	3
+161062	2023-05-01	Glen Osborne	2
+161063	2023-07-01	Glen Osborne	2
+161064	2022-10-01	Green Tree	420
+161065	2022-12-01	Green Tree	161
+161066	2023-03-01	Green Tree	22
+161067	2023-05-01	Green Tree	14
+161068	2023-07-01	Green Tree	9
+161069	2022-09-01	Greenfield (Pittsburgh)	177
+161070	2022-11-01	Greenfield (Pittsburgh)	519
+161071	2023-01-01	Greenfield (Pittsburgh)	110
+161072	2023-04-01	Greenfield (Pittsburgh)	19
+161073	2023-06-01	Greenfield (Pittsburgh)	16
+161074	2023-08-01	Greenfield (Pittsburgh)	11
+161075	2023-10-01	Greenfield (Pittsburgh)	1
+161076	2023-07-01	Hampton	17
+161077	2022-10-01	Harmar	233
+161078	2022-12-01	Harmar	129
+161079	2023-03-01	Harmar	9
+161080	2023-05-01	Harmar	7
+161081	2023-07-01	Harmar	2
+161082	2022-09-01	Harrison	98
+161083	2022-09-01	Hays (Pittsburgh)	2
+161084	2022-11-01	Hays (Pittsburgh)	5
+161085	2023-01-01	Hays (Pittsburgh)	8
+161086	2022-10-01	Haysville	2
+161087	2022-12-01	Haysville	4
+161088	2022-09-01	Hazelwood (Pittsburgh)	42
+161089	2022-11-01	Hazelwood (Pittsburgh)	148
+161090	2023-01-01	Hazelwood (Pittsburgh)	46
+161091	2023-04-01	Hazelwood (Pittsburgh)	9
+161092	2023-06-01	Hazelwood (Pittsburgh)	9
+161093	2022-09-01	Heidelberg	16
+161094	2022-11-01	Heidelberg	62
+161095	2023-01-01	Heidelberg	19
+161096	2023-04-01	Heidelberg	1
+161097	2023-06-01	Heidelberg	1
+161098	2023-08-01	Heidelberg	1
+161099	2023-07-01	Highland Park (Pittsburgh)	9
+161100	2023-02-01	Aleppo	3
+161101	2023-09-01	Aleppo	1
+161102	2022-09-01	Allegheny Center (Pittsburgh)	16
+161103	2022-11-01	Allegheny Center (Pittsburgh)	68
+161104	2023-01-01	Allegheny Center (Pittsburgh)	11
+161105	2023-04-01	Allegheny Center (Pittsburgh)	5
+161106	2023-06-01	Allegheny Center (Pittsburgh)	2
+161107	2022-09-01	Allegheny West (Pittsburgh)	13
+161108	2022-11-01	Allegheny West (Pittsburgh)	38
+161109	2023-01-01	Allegheny West (Pittsburgh)	9
+161110	2023-04-01	Allegheny West (Pittsburgh)	3
+161111	2023-08-01	Allegheny West (Pittsburgh)	2
+161112	2023-02-01	Allentown (Pittsburgh)	12
+161113	2022-10-01	Arlington (Pittsburgh)	61
+161114	2022-12-01	Arlington (Pittsburgh)	37
+161115	2023-03-01	Arlington (Pittsburgh)	4
+161116	2023-05-01	Arlington (Pittsburgh)	4
+161117	2023-07-01	Arlington (Pittsburgh)	3
+161118	2023-02-01	Arlington Heights (Pittsburgh)	3
+161119	2023-07-01	Aspinwall	5
+161120	2022-10-01	Avalon	349
+161121	2022-12-01	Avalon	108
+161122	2023-03-01	Avalon	15
+161123	2023-05-01	Avalon	6
+161124	2023-07-01	Avalon	2
+161125	2023-02-01	Baldwin Borough	138
+161126	2022-09-01	Baldwin Township	24
+161127	2022-11-01	Baldwin Township	137
+161128	2023-01-01	Baldwin Township	27
+161129	2023-04-01	Baldwin Township	6
+161130	2023-06-01	Baldwin Township	1
+161131	2023-08-01	Baldwin Township	2
+161132	2022-09-01	Banksville (Pittsburgh)	52
+161133	2022-11-01	Bedford Dwellings (Pittsburgh)	33
+161134	2023-01-01	Bedford Dwellings (Pittsburgh)	13
+161135	2023-04-01	Bedford Dwellings (Pittsburgh)	19
+161136	2023-06-01	Bedford Dwellings (Pittsburgh)	2
+161137	2023-08-01	Bedford Dwellings (Pittsburgh)	4
+161138	2022-10-01	Beechview (Pittsburgh)	424
+161139	2022-12-01	Beechview (Pittsburgh)	204
+161140	2023-03-01	Beechview (Pittsburgh)	34
+161141	2023-05-01	Beechview (Pittsburgh)	26
+161142	2023-07-01	Beechview (Pittsburgh)	7
+161143	2022-09-01	Bell Acres	26
+161144	2022-11-01	Bell Acres	79
+161145	2022-09-01	Bellevue	108
+161146	2022-11-01	Bellevue	409
+161147	2023-01-01	Bellevue	85
+161148	2023-04-01	Bellevue	15
+161149	2023-06-01	Bellevue	7
+161150	2023-08-01	Bellevue	4
+161151	2023-10-01	Bellevue	1
+161152	2022-10-01	Beltzhoover (Pittsburgh)	76
+161153	2022-12-01	Beltzhoover (Pittsburgh)	42
+161154	2023-03-01	Beltzhoover (Pittsburgh)	6
+161155	2023-05-01	Beltzhoover (Pittsburgh)	7
+161156	2023-07-01	Beltzhoover (Pittsburgh)	2
+161157	2022-09-01	Ben Avon	47
+161158	2022-10-01	Bethel Park	2606
+161159	2022-12-01	Bethel Park	1169
+161160	2023-03-01	Bethel Park	148
+161161	2023-05-01	Bethel Park	73
+161162	2023-07-01	Bethel Park	29
+161163	2022-09-01	Blawnox	19
+161164	2022-11-01	Blawnox	94
+161165	2023-01-01	Blawnox	26
+161166	2023-04-01	Blawnox	2
+161167	2023-06-01	Blawnox	5
+161168	2023-08-01	Blawnox	5
+161169	2023-02-01	Bloomfield (Pittsburgh)	77
+161170	2023-09-01	Bloomfield (Pittsburgh)	8
+161171	2023-06-01	Bluff (Pittsburgh)	3
+161172	2022-09-01	Brentwood	124
+161173	2022-11-01	Brentwood	462
+161174	2023-01-01	Brentwood	133
+161175	2023-04-01	Brentwood	21
+161176	2023-06-01	Brentwood	10
+161177	2023-08-01	Brentwood	11
+161178	2023-02-01	Bridgeville	33
+161179	2022-10-01	Brighton Heights (Pittsburgh)	461
+161180	2022-12-01	Brighton Heights (Pittsburgh)	222
+161181	2023-03-01	Brighton Heights (Pittsburgh)	43
+161182	2023-05-01	Brighton Heights (Pittsburgh)	17
+161183	2023-07-01	Brighton Heights (Pittsburgh)	10
+161184	2023-02-01	Brookline (Pittsburgh)	67
+161185	2023-09-01	Brookline (Pittsburgh)	6
+161186	2022-09-01	California-Kirkbride (Pittsburgh)	4
+161187	2022-11-01	California-Kirkbride (Pittsburgh)	32
+161188	2023-01-01	California-Kirkbride (Pittsburgh)	12
+161189	2023-04-01	California-Kirkbride (Pittsburgh)	3
+161190	2023-06-01	California-Kirkbride (Pittsburgh)	2
+161191	2023-08-01	California-Kirkbride (Pittsburgh)	3
+161192	2022-09-01	Castle Shannon	122
+161193	2022-11-01	Castle Shannon	489
+161194	2023-01-01	Castle Shannon	93
+161195	2023-04-01	Castle Shannon	25
+161196	2023-06-01	Castle Shannon	15
+161197	2023-08-01	Castle Shannon	10
+161198	2023-10-01	Castle Shannon	1
+161199	2022-10-01	Central Business District (Pittsburgh)	333
+161200	2022-12-01	Central Business District (Pittsburgh)	133
+161201	2023-03-01	Central Business District (Pittsburgh)	13
+161202	2023-05-01	Central Business District (Pittsburgh)	14
+161203	2023-07-01	Central Business District (Pittsburgh)	2
+161204	2022-10-01	Central Lawrenceville (Pittsburgh)	541
+161205	2023-03-01	Central Lawrenceville (Pittsburgh)	22
+161206	2022-10-01	Central Northside (Pittsburgh)	284
+161207	2022-12-01	Central Northside (Pittsburgh)	100
+161208	2023-03-01	Central Northside (Pittsburgh)	11
+161209	2023-05-01	Central Northside (Pittsburgh)	8
+161210	2023-07-01	Central Northside (Pittsburgh)	3
+161211	2023-02-01	Chartiers City (Pittsburgh)	7
+161212	2023-02-01	Chateau (Pittsburgh)	1
+161213	2022-09-01	Cheswick	24
+161214	2022-11-01	Cheswick	146
+161215	2022-10-01	Churchill	389
+161216	2022-12-01	Churchill	136
+161217	2023-03-01	Churchill	25
+161218	2023-05-01	Churchill	8
+161219	2023-07-01	Churchill	6
+161220	2022-09-01	Clairton	39
+161221	2022-11-01	Clairton	213
+161222	2023-01-01	Clairton	44
+161223	2023-04-01	Clairton	13
+161224	2023-06-01	Clairton	6
+161225	2023-08-01	Clairton	3
+161226	2023-10-01	Clairton	2
+161227	2023-10-01	Collier	2
+161228	2023-02-01	Coraopolis	21
+161229	2023-09-01	Coraopolis	1
+161230	2022-09-01	Crafton	83
+161231	2022-11-01	Crafton	345
+161232	2023-01-01	Crafton	81
+161233	2023-04-01	Crafton	16
+161234	2023-06-01	Crafton	4
+161235	2023-08-01	Crafton	6
+161236	2023-10-01	Crafton	1
+161237	2022-10-01	Crafton Heights (Pittsburgh)	194
+161238	2022-12-01	Crafton Heights (Pittsburgh)	105
+161239	2023-03-01	Crafton Heights (Pittsburgh)	24
+161240	2023-05-01	Crafton Heights (Pittsburgh)	16
+161241	2023-07-01	Crafton Heights (Pittsburgh)	5
+161242	2023-02-01	Crawford-Roberts (Pittsburgh)	10
+161243	2023-09-01	Crescent	1
+161244	2023-02-01	Dormont	64
+161245	2022-09-01	Dravosburg	16
+161246	2022-11-01	Dravosburg	91
+161247	2023-01-01	Dravosburg	15
+161248	2023-04-01	Dravosburg	5
+161249	2023-06-01	Dravosburg	3
+161250	2023-08-01	Dravosburg	2
+161251	2022-10-01	Duquesne	164
+161252	2022-12-01	Duquesne	70
+161253	2023-03-01	Duquesne	30
+161254	2022-10-01	East Hills (Pittsburgh)	99
+161255	2022-12-01	East Hills (Pittsburgh)	54
+161256	2023-03-01	East Hills (Pittsburgh)	16
+161257	2023-05-01	East Hills (Pittsburgh)	6
+161258	2023-07-01	East Hills (Pittsburgh)	4
+161259	2023-02-01	East Liberty (Pittsburgh)	46
+161260	2023-08-01	East Mckeesport	1
+161261	2023-10-01	East Mckeesport	1
+161262	2022-09-01	Edgewood	152
+161263	2022-11-01	Edgewood	312
+161264	2023-01-01	Edgewood	77
+161265	2023-04-01	Edgewood	10
+161266	2023-06-01	Edgewood	11
+161267	2023-08-01	Edgewood	6
+161268	2023-10-01	Edgewood	3
+161269	2023-02-01	Edgeworth	8
+161270	2023-02-01	Elizabeth Township	74
+161271	2023-09-01	Elizabeth Township	3
+161272	2023-02-01	Elliott (Pittsburgh)	16
+161273	2023-09-01	Elliott (Pittsburgh)	2
+161274	2022-10-01	Emsworth	137
+161275	2022-12-01	Emsworth	61
+161276	2023-03-01	Emsworth	14
+161277	2023-05-01	Emsworth	4
+161278	2023-07-01	Emsworth	7
+161279	2022-09-01	Etna	29
+161280	2022-11-01	Etna	133
+161281	2023-01-01	Etna	55
+161282	2023-04-01	Etna	17
+161283	2023-06-01	Etna	4
+161284	2023-08-01	Etna	8
+161285	2023-10-01	Etna	1
+161286	2023-02-01	Fairywood (Pittsburgh)	12
+161287	2023-09-01	Fairywood (Pittsburgh)	1
+161288	2022-09-01	Fawn	14
+161289	2022-11-01	Fawn	102
+161290	2023-01-01	Fawn	8
+161291	2023-04-01	Fawn	3
+161292	2022-10-01	Findlay	351
+161293	2022-12-01	Findlay	154
+161294	2023-03-01	Findlay	18
+161295	2023-05-01	Findlay	10
+161296	2023-07-01	Findlay	4
+161297	2023-02-01	Fineview (Pittsburgh)	5
+161298	2023-08-01	Forest Hills	4
+161299	2023-10-01	Forest Hills	2
+161300	2022-10-01	Forward	80
+161301	2022-12-01	Forward	46
+161302	2023-03-01	Forward	8
+161303	2023-05-01	Forward	2
+161304	2023-02-01	Fox Chapel	49
+161305	2023-09-01	Fox Chapel	1
+161306	2023-02-01	Franklin Park	102
+161307	2023-09-01	Franklin Park	13
+161308	2023-02-01	Frazer	7
+161309	2022-10-01	Garfield (Pittsburgh)	222
+161310	2022-12-01	Garfield (Pittsburgh)	112
+161311	2023-03-01	Garfield (Pittsburgh)	27
+161312	2023-05-01	Garfield (Pittsburgh)	19
+161313	2023-07-01	Garfield (Pittsburgh)	7
+161314	2022-10-01	Glassport	160
+161315	2022-12-01	Glassport	88
+161316	2023-03-01	Glassport	23
+161317	2022-10-01	Glen Hazel (Pittsburgh)	22
+161318	2022-12-01	Glen Hazel (Pittsburgh)	8
+161319	2023-03-01	Glen Hazel (Pittsburgh)	8
+161320	2023-07-01	Glen Hazel (Pittsburgh)	5
+161321	2023-02-01	Green Tree	31
+161322	2023-09-01	Green Tree	2
+161323	2022-10-01	Hampton	1708
+161324	2022-12-01	Hampton	726
+161325	2023-03-01	Hampton	79
+161326	2023-05-01	Hampton	52
+161327	2023-02-01	Harmar	40
+161328	2023-09-01	Harmar	2
+161329	2022-11-01	Harrison	546
+161330	2023-01-01	Harrison	122
+161331	2023-04-01	Harrison	14
+161332	2023-06-01	Harrison	6
+161333	2023-08-01	Harrison	14
+161334	2023-10-01	Harrison	3
+161335	2023-02-01	Hays (Pittsburgh)	3
+161336	2022-11-01	Haysville	4
+161337	2023-01-01	Haysville	3
+161338	2023-08-01	Hazelwood (Pittsburgh)	6
+161339	2023-10-01	Hazelwood (Pittsburgh)	1
+161340	2023-02-01	Heidelberg	4
+161341	2022-09-01	Highland Park (Pittsburgh)	271
+161342	2022-11-01	Highland Park (Pittsburgh)	553
+161343	2023-01-01	Highland Park (Pittsburgh)	154
+161344	2023-04-01	Highland Park (Pittsburgh)	32
+161345	2023-06-01	Highland Park (Pittsburgh)	14
+161346	2023-08-01	Highland Park (Pittsburgh)	14
+161347	2023-10-01	Highland Park (Pittsburgh)	2
+161348	2022-09-01	Homestead	16
+161349	2022-11-01	Homestead	146
+161350	2023-01-01	Homestead	42
+161351	2023-04-01	Homestead	7
+161352	2023-06-01	Homestead	3
+161353	2023-08-01	Homestead	5
+161354	2022-11-01	Homewood North (Pittsburgh)	87
+161355	2023-01-01	Homewood North (Pittsburgh)	24
+161356	2023-04-01	Homewood North (Pittsburgh)	5
+161357	2023-06-01	Homewood North (Pittsburgh)	3
+161358	2023-08-01	Homewood North (Pittsburgh)	7
+161359	2023-10-01	Homewood North (Pittsburgh)	1
+161360	2022-10-01	Homewood South (Pittsburgh)	83
+161361	2022-12-01	Homewood South (Pittsburgh)	46
+161362	2023-03-01	Homewood South (Pittsburgh)	12
+161363	2023-05-01	Homewood South (Pittsburgh)	20
+161364	2023-07-01	Homewood South (Pittsburgh)	4
+161365	2023-02-01	Homewood West (Pittsburgh)	3
+161366	2023-09-01	Homewood West (Pittsburgh)	1
+161367	2022-10-01	Ingram	226
+161368	2022-12-01	Ingram	78
+161369	2023-03-01	Ingram	6
+161370	2023-05-01	Ingram	6
+161371	2023-07-01	Ingram	2
+161372	2022-10-01	Jefferson Hills	651
+161373	2022-12-01	Jefferson Hills	284
+161374	2023-03-01	Jefferson Hills	43
+161375	2023-05-01	Jefferson Hills	25
+161376	2023-07-01	Jefferson Hills	7
+161377	2022-10-01	Kennedy	625
+161378	2022-12-01	Kennedy	299
+161379	2023-03-01	Kennedy	33
+161380	2023-05-01	Kennedy	14
+161381	2023-07-01	Kennedy	6
+161382	2023-10-01	Kilbuck	1
+161383	2022-09-01	Larimer (Pittsburgh)	10
+161384	2022-11-01	Larimer (Pittsburgh)	52
+161385	2023-01-01	Larimer (Pittsburgh)	14
+161386	2023-04-01	Larimer (Pittsburgh)	5
+161387	2023-06-01	Larimer (Pittsburgh)	1
+161388	2023-08-01	Larimer (Pittsburgh)	5
+161389	2023-10-01	Larimer (Pittsburgh)	1
+161390	2023-02-01	Leet	5
+161391	2022-10-01	Leetsdale	61
+161392	2022-12-01	Leetsdale	32
+161393	2023-03-01	Leetsdale	3
+161394	2023-07-01	Leetsdale	3
+161395	2022-09-01	Lincoln	21
+161396	2022-11-01	Lincoln	43
+161397	2023-01-01	Lincoln	11
+161398	2023-04-01	Lincoln	1
+161399	2023-08-01	Lincoln	1
+161400	2023-10-01	Lincoln	1
+161401	2023-02-01	Lincoln Place (Pittsburgh)	19
+161402	2023-09-01	Lincoln Place (Pittsburgh)	1
+161403	2022-10-01	Lincoln-Lemington-Belmar (Pittsburgh)	170
+161404	2022-12-01	Lincoln-Lemington-Belmar (Pittsburgh)	84
+161405	2023-03-01	Lincoln-Lemington-Belmar (Pittsburgh)	13
+161406	2023-05-01	Lincoln-Lemington-Belmar (Pittsburgh)	17
+161407	2023-07-01	Lincoln-Lemington-Belmar (Pittsburgh)	1
+161408	2022-09-01	Lower Lawrenceville (Pittsburgh)	71
+161409	2022-11-01	Lower Lawrenceville (Pittsburgh)	218
+161410	2023-01-01	Lower Lawrenceville (Pittsburgh)	31
+161411	2023-04-01	Lower Lawrenceville (Pittsburgh)	6
+161412	2023-06-01	Lower Lawrenceville (Pittsburgh)	8
+161413	2023-08-01	Lower Lawrenceville (Pittsburgh)	1
+161414	2023-10-01	Lower Lawrenceville (Pittsburgh)	1
+161415	2023-02-01	Manchester (Pittsburgh)	14
+161416	2023-09-01	Manchester (Pittsburgh)	3
+161417	2023-05-01	Hazelwood (Pittsburgh)	11
+161418	2023-07-01	Hazelwood (Pittsburgh)	8
+161419	2022-10-01	Highland Park (Pittsburgh)	786
+161420	2022-12-01	Highland Park (Pittsburgh)	320
+161421	2023-03-01	Highland Park (Pittsburgh)	53
+161422	2023-05-01	Highland Park (Pittsburgh)	23
+161423	2022-10-01	Homestead	94
+161424	2022-12-01	Homestead	53
+161425	2023-03-01	Homestead	21
+161426	2023-05-01	Homestead	8
+161427	2023-07-01	Homestead	3
+161428	2022-10-01	Homewood North (Pittsburgh)	81
+161429	2022-12-01	Homewood North (Pittsburgh)	41
+161430	2023-03-01	Homewood North (Pittsburgh)	8
+161431	2023-05-01	Homewood North (Pittsburgh)	9
+161432	2023-07-01	Homewood North (Pittsburgh)	1
+161433	2022-09-01	Homewood South (Pittsburgh)	9
+161434	2022-11-01	Homewood South (Pittsburgh)	73
+161435	2023-01-01	Homewood South (Pittsburgh)	29
+161436	2023-04-01	Homewood South (Pittsburgh)	4
+161437	2023-06-01	Homewood South (Pittsburgh)	16
+161438	2023-08-01	Homewood South (Pittsburgh)	3
+161439	2023-10-01	Homewood South (Pittsburgh)	1
+161440	2022-10-01	Indiana	576
+161441	2022-12-01	Indiana	237
+161442	2023-03-01	Indiana	39
+161443	2023-05-01	Indiana	21
+161444	2023-07-01	Indiana	7
+161445	2023-01-01	Jefferson Hills	141
+161446	2023-04-01	Jefferson Hills	16
+161447	2023-06-01	Jefferson Hills	16
+161448	2023-08-01	Jefferson Hills	9
+161449	2022-11-01	Kennedy	546
+161450	2023-01-01	Kennedy	117
+161451	2023-04-01	Kennedy	15
+161452	2023-08-01	Kennedy	6
+161453	2023-10-01	Kennedy	3
+161454	2022-10-01	Kilbuck	67
+161455	2022-12-01	Kilbuck	27
+161456	2023-03-01	Kilbuck	3
+161457	2023-05-01	Kilbuck	1
+161458	2022-10-01	Knoxville (Pittsburgh)	110
+161459	2022-12-01	Knoxville (Pittsburgh)	52
+161460	2023-03-01	Knoxville (Pittsburgh)	13
+161461	2023-05-01	Knoxville (Pittsburgh)	4
+161462	2023-07-01	Knoxville (Pittsburgh)	1
+161463	2022-10-01	Larimer (Pittsburgh)	64
+161464	2022-10-01	Leet	88
+161465	2022-12-01	Leet	33
+161466	2023-03-01	Leet	1
+161467	2023-05-01	Leet	3
+161468	2023-07-01	Leet	1
+161469	2022-10-01	Liberty	141
+161470	2022-12-01	Liberty	44
+161471	2023-03-01	Liberty	10
+161472	2023-05-01	Liberty	4
+161473	2022-10-01	Lincoln	38
+161474	2022-12-01	Lincoln	24
+161475	2023-03-01	Lincoln	4
+161476	2023-05-01	Lincoln	1
+161477	2022-09-01	Lincoln Place (Pittsburgh)	18
+161478	2022-11-01	Lincoln Place (Pittsburgh)	143
+161479	2023-01-01	Lincoln Place (Pittsburgh)	42
+161480	2023-04-01	Lincoln Place (Pittsburgh)	9
+161481	2023-06-01	Lincoln Place (Pittsburgh)	2
+161482	2023-08-01	Lincoln Place (Pittsburgh)	2
+161483	2023-08-01	Lincoln-Lemington-Belmar (Pittsburgh)	3
+161484	2022-10-01	Lower Lawrenceville (Pittsburgh)	248
+161485	2023-03-01	Lower Lawrenceville (Pittsburgh)	12
+161486	2022-09-01	Manchester (Pittsburgh)	23
+161487	2022-11-01	Manchester (Pittsburgh)	98
+161488	2023-01-01	Manchester (Pittsburgh)	31
+161489	2023-04-01	Manchester (Pittsburgh)	7
+161490	2023-06-01	Manchester (Pittsburgh)	4
+161491	2023-08-01	Manchester (Pittsburgh)	4
+161492	2022-09-01	Marshall	123
+161493	2022-11-01	Marshall	465
+161494	2023-01-01	Marshall	135
+161495	2023-04-01	Marshall	16
+161496	2023-06-01	Marshall	17
+161497	2023-08-01	Marshall	5
+161498	2023-02-01	Marshall-Shadeland (Pittsburgh)	18
+161499	2023-09-01	Marshall-Shadeland (Pittsburgh)	3
+161500	2023-02-01	McCandless	196
+161501	2023-09-01	McCandless	17
+161502	2022-09-01	Mckees rocks	18
+161503	2022-11-01	Mckees rocks	182
+161504	2023-01-01	Mckees rocks	65
+161505	2023-04-01	Mckees rocks	11
+161506	2023-06-01	Mckees rocks	6
+161507	2023-08-01	Mckees rocks	3
+161508	2023-10-01	Mckees rocks	3
+161509	2023-02-01	Middle Hill (Pittsburgh)	10
+161510	2022-10-01	Millvale	198
+161511	2022-12-01	Millvale	83
+161512	2023-03-01	Millvale	9
+161513	2023-05-01	Millvale	3
+161514	2023-07-01	Millvale	4
+161515	2023-09-01	Monroeville	18
+161516	2022-09-01	Moon	377
+161517	2022-11-01	Moon	1399
+161518	2023-01-01	Moon	348
+161519	2023-04-01	Moon	51
+161520	2023-06-01	Moon	43
+161521	2023-08-01	Moon	22
+161522	2023-10-01	Moon	2
+161523	2022-10-01	Morningside (Pittsburgh)	318
+161524	2022-12-01	Morningside (Pittsburgh)	132
+161525	2023-03-01	Morningside (Pittsburgh)	25
+161526	2023-05-01	Morningside (Pittsburgh)	14
+161527	2023-07-01	Morningside (Pittsburgh)	4
+161528	2022-10-01	Mount Lebanon	3870
+161529	2022-12-01	Mount Lebanon	1483
+161530	2023-03-01	Mount Lebanon	162
+161531	2023-05-01	Mount Lebanon	95
+161532	2023-07-01	Mount Lebanon	46
+161533	2022-09-01	Mount Oliver Borough	23
+161534	2022-11-01	Mount Oliver Borough	100
+161535	2023-01-01	Mount Oliver Borough	36
+161536	2023-04-01	Mount Oliver Borough	13
+161537	2023-06-01	Mount Oliver Borough	3
+161538	2023-08-01	Mount Oliver Borough	9
+161539	2022-09-01	Mount Washington (Pittsburgh)	113
+161540	2022-11-01	Mount Washington (Pittsburgh)	448
+161541	2023-01-01	Mount Washington (Pittsburgh)	85
+161542	2023-04-01	Mount Washington (Pittsburgh)	24
+161543	2023-06-01	Mount Washington (Pittsburgh)	9
+161544	2023-08-01	Mount Washington (Pittsburgh)	6
+161545	2023-10-01	Mount Washington (Pittsburgh)	3
+161546	2022-10-01	Mt. Oliver (Pittsburgh)	31
+161547	2022-12-01	Mt. Oliver (Pittsburgh)	13
+161548	2023-03-01	Mt. Oliver (Pittsburgh)	2
+161549	2023-09-01	Munhall	9
+161550	2023-02-01	Neville	5
+161551	2022-09-01	North Braddock	24
+161552	2022-11-01	North Braddock	156
+161553	2023-01-01	North Braddock	39
+161554	2023-04-01	North Braddock	7
+161555	2023-06-01	North Braddock	3
+161556	2023-08-01	North Braddock	5
+161557	2022-10-01	North Fayette	693
+161558	2022-12-01	North Fayette	306
+161559	2023-03-01	North Fayette	32
+161560	2023-05-01	North Fayette	21
+161561	2023-07-01	North Fayette	5
+161562	2022-10-01	North Oakland (Pittsburgh)	522
+161563	2022-12-01	North Oakland (Pittsburgh)	156
+161564	2023-03-01	North Oakland (Pittsburgh)	21
+161565	2023-05-01	North Oakland (Pittsburgh)	15
+161566	2023-07-01	North Oakland (Pittsburgh)	5
+161567	2023-02-01	North Shore (Pittsburgh)	3
+161568	2022-10-01	North Versailles	572
+161569	2022-12-01	North Versailles	250
+161570	2023-03-01	North Versailles	61
+161571	2023-05-01	North Versailles	23
+161572	2023-07-01	North Versailles	6
+161573	2022-10-01	Northview Heights (Pittsburgh)	27
+161574	2022-12-01	Northview Heights (Pittsburgh)	12
+161575	2023-03-01	Northview Heights (Pittsburgh)	2
+161576	2023-02-01	Homestead	10
+161577	2023-09-01	Homestead	2
+161578	2023-02-01	Homewood North (Pittsburgh)	14
+161579	2023-09-01	Homewood North (Pittsburgh)	10
+161580	2022-10-01	Homewood West (Pittsburgh)	32
+161581	2022-12-01	Homewood West (Pittsburgh)	8
+161582	2023-03-01	Homewood West (Pittsburgh)	6
+161583	2023-05-01	Homewood West (Pittsburgh)	4
+161584	2023-07-01	Homewood West (Pittsburgh)	1
+161585	2023-02-01	Indiana	41
+161586	2023-09-01	Indiana	4
+161587	2023-02-01	Ingram	15
+161588	2023-09-01	Ingram	2
+161589	2023-02-01	Jefferson Hills	58
+161590	2023-09-01	Jefferson Hills	5
+161591	2022-09-01	Kennedy	117
+161592	2022-09-01	Kilbuck	21
+161593	2022-11-01	Kilbuck	58
+161594	2023-01-01	Kilbuck	16
+161595	2022-09-01	Knoxville (Pittsburgh)	26
+161596	2022-11-01	Knoxville (Pittsburgh)	91
+161597	2023-01-01	Knoxville (Pittsburgh)	30
+161598	2023-04-01	Knoxville (Pittsburgh)	6
+161599	2023-06-01	Knoxville (Pittsburgh)	4
+161600	2023-08-01	Knoxville (Pittsburgh)	2
+161601	2023-02-01	Larimer (Pittsburgh)	5
+161602	2023-02-01	Leetsdale	6
+161603	2023-09-01	Leetsdale	1
+161604	2023-02-01	Liberty	12
+161605	2023-09-01	Liberty	1
+161606	2023-02-01	Lincoln	2
+161607	2022-10-01	Lincoln Place (Pittsburgh)	189
+161608	2022-12-01	Lincoln Place (Pittsburgh)	83
+161609	2023-03-01	Lincoln Place (Pittsburgh)	15
+161610	2023-05-01	Lincoln Place (Pittsburgh)	6
+161611	2023-07-01	Lincoln Place (Pittsburgh)	5
+161612	2023-02-01	Lincoln-Lemington-Belmar (Pittsburgh)	23
+161613	2023-09-01	Lincoln-Lemington-Belmar (Pittsburgh)	2
+161614	2022-12-01	Lower Lawrenceville (Pittsburgh)	84
+161615	2023-05-01	Lower Lawrenceville (Pittsburgh)	8
+161616	2023-07-01	Lower Lawrenceville (Pittsburgh)	7
+161617	2022-10-01	Marshall	530
+161618	2022-12-01	Marshall	274
+161619	2023-03-01	Marshall	31
+161620	2023-05-01	Marshall	11
+161621	2023-07-01	Marshall	4
+161622	2022-10-01	Marshall-Shadeland (Pittsburgh)	179
+161623	2022-12-01	Marshall-Shadeland (Pittsburgh)	93
+161624	2023-03-01	Marshall-Shadeland (Pittsburgh)	26
+161625	2023-05-01	Marshall-Shadeland (Pittsburgh)	9
+161626	2023-07-01	Marshall-Shadeland (Pittsburgh)	2
+161627	2023-10-01	McCandless	10
+161628	2023-02-01	Mckees rocks	26
+161629	2023-09-01	Mckees rocks	3
+161630	2022-09-01	McKeesport	88
+161631	2022-11-01	McKeesport	646
+161632	2023-01-01	McKeesport	143
+161633	2023-04-01	McKeesport	54
+161634	2023-06-01	McKeesport	10
+161635	2023-08-01	McKeesport	17
+161636	2023-02-01	Millvale	18
+161637	2023-09-01	Millvale	1
+161638	2023-02-01	Monroeville	170
+161639	2023-02-01	Morningside (Pittsburgh)	32
+161640	2023-09-01	Morningside (Pittsburgh)	5
+161641	2023-02-01	Mount Lebanon	214
+161642	2023-09-01	Mount Lebanon	26
+161643	2022-10-01	Mount Oliver Borough	98
+161644	2022-12-01	Mount Oliver Borough	54
+161645	2023-03-01	Mount Oliver Borough	16
+161646	2023-05-01	Mount Oliver Borough	14
+161647	2023-07-01	Mount Oliver Borough	5
+161648	2022-10-01	Mount Washington (Pittsburgh)	535
+161649	2022-12-01	Mount Washington (Pittsburgh)	215
+161650	2023-03-01	Mount Washington (Pittsburgh)	23
+161651	2023-05-01	Mount Washington (Pittsburgh)	16
+161652	2023-07-01	Mount Washington (Pittsburgh)	8
+161653	2022-09-01	Mt. Oliver (Pittsburgh)	8
+161654	2022-10-01	Munhall	666
+161655	2022-12-01	Munhall	278
+161656	2023-03-01	Munhall	36
+161657	2023-05-01	Munhall	19
+161658	2023-07-01	Munhall	6
+161659	2022-09-01	Neville	12
+161660	2022-11-01	Neville	45
+161661	2023-01-01	Neville	11
+161662	2023-04-01	Neville	1
+161663	2022-10-01	New Homestead (Pittsburgh)	56
+161664	2022-12-01	New Homestead (Pittsburgh)	19
+161665	2023-03-01	New Homestead (Pittsburgh)	4
+161666	2023-05-01	New Homestead (Pittsburgh)	1
+161667	2023-02-01	North Fayette	51
+161668	2023-09-01	North Fayette	4
+161669	2022-09-01	North Oakland (Pittsburgh)	162
+161670	2022-10-01	North Shore (Pittsburgh)	17
+161671	2022-12-01	North Shore (Pittsburgh)	8
+161672	2023-03-01	North Shore (Pittsburgh)	1
+161673	2023-05-01	North Shore (Pittsburgh)	1
+161674	2022-09-01	North Versailles	86
+161675	2022-11-01	North Versailles	478
+161676	2023-01-01	North Versailles	121
+161677	2023-04-01	North Versailles	26
+161678	2023-06-01	North Versailles	7
+161679	2023-08-01	North Versailles	5
+161680	2022-09-01	O'Hara	339
+161681	2023-02-01	Oakdale	7
+161682	2023-02-01	Oakmont	46
+161683	2023-09-01	Oakmont	9
+161684	2022-10-01	Ohio	700
+161685	2022-12-01	Ohio	286
+161686	2023-03-01	Ohio	26
+161687	2023-05-01	Ohio	17
+161688	2023-02-01	Overbrook (Pittsburgh)	12
+161689	2023-09-01	Overbrook (Pittsburgh)	3
+161690	2022-09-01	Penn Hills	501
+161691	2022-11-01	Penn Hills	2358
+161692	2023-01-01	Penn Hills	543
+161693	2023-04-01	Penn Hills	105
+161694	2023-06-01	Penn Hills	67
+161695	2023-08-01	Penn Hills	46
+161696	2023-10-01	Penn Hills	6
+161697	2023-02-01	Pennsbury Village	3
+161698	2023-09-01	Pennsbury Village	1
+161699	2022-10-01	Perry North (Pittsburgh)	247
+161700	2023-02-01	Perry South (Pittsburgh)	19
+161701	2022-10-01	Pitcairn	125
+161702	2022-12-01	Pitcairn	62
+161703	2023-03-01	Pitcairn	12
+161704	2023-05-01	Pitcairn	8
+161705	2023-07-01	Pitcairn	3
+161706	2023-02-01	Pleasant Hills	56
+161707	2023-09-01	Pleasant Hills	7
+161708	2022-09-01	Plum	341
+161709	2022-11-01	Plum	1664
+161710	2023-01-01	Plum	356
+161711	2023-04-01	Plum	56
+161712	2023-06-01	Plum	27
+161713	2023-08-01	Plum	16
+161714	2023-10-01	Plum	2
+161715	2023-09-01	Point Breeze (Pittsburgh)	7
+161716	2022-09-01	Point Breeze North (Pittsburgh)	39
+161717	2022-11-01	Point Breeze North (Pittsburgh)	171
+161718	2023-02-01	Polish Hill (Pittsburgh)	15
+161719	2023-09-01	Polish Hill (Pittsburgh)	1
+161720	2023-02-01	Port Vue	24
+161721	2023-09-01	Port Vue	2
+161722	2022-09-01	Rankin	7
+161723	2022-11-01	Rankin	40
+161724	2023-01-01	Rankin	20
+161725	2023-04-01	Rankin	4
+161726	2023-06-01	Rankin	4
+161727	2023-08-01	Rankin	2
+161728	2022-10-01	Regent Square (Pittsburgh)	156
+161729	2022-12-01	Regent Square (Pittsburgh)	59
+161730	2023-03-01	Regent Square (Pittsburgh)	9
+161731	2023-05-01	Regent Square (Pittsburgh)	3
+161732	2023-02-01	Reserve	22
+161733	2023-07-01	Reserve	2
+161734	2023-10-01	Richland	1
+161735	2023-02-01	Ridgemont (Pittsburgh)	6
+161736	2023-02-01	Robinson	85
+161737	2023-09-01	Robinson	5
+161738	2023-02-01	Ross	225
+161739	2023-09-01	Ross	20
+161740	2022-09-01	Rosslyn Farms	13
+161741	2022-11-01	Rosslyn Farms	34
+161742	2023-01-01	Rosslyn Farms	6
+161743	2023-06-01	Rosslyn Farms	1
+161744	2022-10-01	Sewickley	337
+161745	2022-12-01	Sewickley	147
+161746	2023-03-01	Sewickley	16
+161747	2023-05-01	Sewickley	7
+161748	2023-07-01	Sewickley	6
+161749	2022-09-01	Shadyside (Pittsburgh)	388
+161750	2022-10-01	Shaler	2288
+161751	2022-12-01	Shaler	922
+161752	2023-03-01	Shaler	144
+161753	2023-05-01	Shaler	61
+161754	2023-07-01	Shaler	23
+161755	2022-10-01	Sharpsburg	151
+161756	2023-03-01	Sharpsburg	16
+161757	2023-02-01	Sheraden (Pittsburgh)	38
+161758	2023-02-01	South Fayette	123
+161759	2023-09-01	South Fayette	6
+161760	2022-09-01	South Oakland (Pittsburgh)	31
+161761	2022-11-01	South Oakland (Pittsburgh)	97
+161762	2023-01-01	South Oakland (Pittsburgh)	34
+161763	2023-04-01	South Oakland (Pittsburgh)	9
+161764	2023-06-01	South Oakland (Pittsburgh)	2
+161765	2023-08-01	South Oakland (Pittsburgh)	1
+161766	2023-10-01	South Oakland (Pittsburgh)	1
+161767	2022-09-01	South Park	237
+161768	2022-11-01	South Park	790
+161769	2023-01-01	South Park	180
+161770	2023-04-01	South Park	31
+161771	2023-06-01	South Park	12
+161772	2022-11-01	South Versailles	15
+161773	2023-01-01	South Versailles	3
+161774	2022-09-01	Southside Flats (Pittsburgh)	141
+161775	2022-11-01	Southside Flats (Pittsburgh)	329
+161776	2023-04-01	Southside Flats (Pittsburgh)	18
+161777	2023-05-01	Southside Slopes (Pittsburgh)	15
+161778	2023-07-01	Southside Slopes (Pittsburgh)	4
+161779	2023-02-01	Spring Garden (Pittsburgh)	4
+161780	2022-09-01	Springdale Borough	30
+161781	2022-11-01	Springdale Borough	191
+161782	2023-01-01	Springdale Borough	44
+161783	2023-04-01	Springdale Borough	6
+161784	2023-06-01	Springdale Borough	4
+161785	2023-08-01	Springdale Borough	6
+161786	2023-02-01	Springdale Township	12
+161787	2023-09-01	Squirrel Hill North (Pittsburgh)	9
+161788	2022-11-01	Squirrel Hill South (Pittsburgh)	1384
+161789	2023-01-01	Squirrel Hill South (Pittsburgh)	320
+161790	2023-04-01	Squirrel Hill South (Pittsburgh)	44
+161791	2023-06-01	Squirrel Hill South (Pittsburgh)	52
+161792	2023-08-01	Squirrel Hill South (Pittsburgh)	36
+161793	2023-10-01	Squirrel Hill South (Pittsburgh)	3
+161794	2023-02-01	Stanton Heights (Pittsburgh)	47
+161795	2023-09-01	Stanton Heights (Pittsburgh)	4
+161796	2022-09-01	Stowe	36
+161797	2022-11-01	Stowe	211
+161798	2023-01-01	Stowe	48
+161799	2023-04-01	Stowe	8
+161800	2023-06-01	Stowe	3
+161801	2023-02-01	Strip District (Pittsburgh)	13
+161802	2023-02-01	Summer Hill (Pittsburgh)	6
+161803	2022-10-01	Swisshelm Park (Pittsburgh)	132
+161804	2023-03-01	Swisshelm Park (Pittsburgh)	14
+161805	2022-10-01	Swissvale	628
+161806	2022-12-01	Swissvale	271
+161807	2023-03-01	Swissvale	38
+161808	2023-05-01	Swissvale	18
+161809	2023-07-01	Swissvale	5
+161810	2023-02-01	Tarentum	19
+161811	2023-02-01	Terrace Village (Pittsburgh)	12
+161812	2023-09-01	Terrace Village (Pittsburgh)	5
+161813	2023-09-01	Thornburg	1
+161814	2023-01-01	Troy Hill (Pittsburgh)	18
+161815	2023-06-01	Troy Hill (Pittsburgh)	5
+161816	2023-08-01	Troy Hill (Pittsburgh)	3
+161817	2023-10-01	Troy Hill (Pittsburgh)	1
+161818	2022-10-01	Undefined	106
+161819	2022-12-01	Undefined	45
+161820	2023-03-01	Undefined	9
+161821	2023-05-01	Undefined	5
+161822	2023-07-01	Undefined	4
+161823	2023-02-01	Upper Lawrenceville (Pittsburgh)	19
+161824	2023-09-01	Upper Lawrenceville (Pittsburgh)	4
+161825	2023-02-01	Upper Saint Clair	144
+161826	2023-09-01	Upper Saint Clair	16
+161827	2023-02-01	Verona	23
+161828	2023-02-01	Versailles	8
+161829	2023-02-01	West Deer	60
+161830	2023-09-01	West Deer	3
+161831	2022-09-01	West Elizabeth	3
+161832	2022-11-01	West Elizabeth	15
+161833	2023-01-01	West Elizabeth	9
+161834	2023-04-01	West Elizabeth	2
+161835	2022-09-01	West End (Pittsburgh)	2
+161836	2022-11-01	West End (Pittsburgh)	12
+161837	2023-01-01	West End (Pittsburgh)	5
+161838	2023-06-01	West End (Pittsburgh)	1
+161839	2022-09-01	West Homestead	15
+161840	2022-11-01	West Homestead	114
+161841	2023-01-01	West Homestead	26
+161842	2023-04-01	West Homestead	10
+161843	2023-08-01	West Homestead	1
+161844	2023-10-01	West Homestead	1
+161845	2023-02-01	West Mifflin	121
+161846	2023-09-01	West Mifflin	3
+161847	2022-09-01	West Oakland (Pittsburgh)	10
+161848	2022-11-01	West Oakland (Pittsburgh)	79
+161849	2023-01-01	West Oakland (Pittsburgh)	15
+161850	2023-04-01	West Oakland (Pittsburgh)	5
+161851	2023-06-01	West Oakland (Pittsburgh)	1
+161852	2023-01-01	West View	104
+161853	2023-06-01	West View	5
+161854	2023-08-01	West View	7
+161855	2023-10-01	West View	3
+161856	2022-10-01	Whitaker	50
+161857	2022-12-01	Whitaker	19
+161858	2023-03-01	Whitaker	4
+161859	2023-05-01	Whitaker	2
+161860	2023-07-01	Whitaker	2
+161861	2023-02-01	White Oak	39
+161862	2023-09-01	White Oak	2
+161863	2023-02-01	Whitehall	85
+161864	2023-09-01	Whitehall	13
+161865	2023-02-01	Wilkinsburg	91
+161866	2023-02-01	Wilmerding	11
+161867	2022-10-01	Windgap (Pittsburgh)	75
+161868	2022-12-01	Windgap (Pittsburgh)	41
+161869	2023-03-01	Windgap (Pittsburgh)	2
+161870	2023-05-01	Windgap (Pittsburgh)	6
+161871	2023-07-01	Windgap (Pittsburgh)	1
+161872	2023-05-01	Duquesne	11
+161873	2023-07-01	Duquesne	4
+161874	2022-09-01	Duquesne Heights (Pittsburgh)	41
+161875	2022-11-01	Duquesne Heights (Pittsburgh)	153
+161876	2023-01-01	Duquesne Heights (Pittsburgh)	23
+161877	2023-04-01	Duquesne Heights (Pittsburgh)	6
+161878	2023-06-01	Duquesne Heights (Pittsburgh)	2
+161879	2023-08-01	Duquesne Heights (Pittsburgh)	2
+161880	2022-10-01	East Allegheny (Pittsburgh)	122
+161881	2023-03-01	East Allegheny (Pittsburgh)	11
+161882	2023-02-01	East Carnegie (Pittsburgh)	3
+161883	2022-09-01	East Deer	7
+161884	2022-11-01	East Deer	73
+161885	2023-01-01	East Deer	13
+161886	2023-04-01	East Deer	4
+161887	2023-06-01	East Deer	1
+161888	2022-09-01	East Hills (Pittsburgh)	15
+161889	2022-11-01	East Hills (Pittsburgh)	83
+161890	2023-01-01	East Hills (Pittsburgh)	23
+161891	2023-04-01	East Hills (Pittsburgh)	15
+161892	2023-06-01	East Hills (Pittsburgh)	8
+161893	2023-08-01	East Hills (Pittsburgh)	3
+161894	2023-09-01	East Liberty (Pittsburgh)	4
+161895	2022-09-01	East Mckeesport	13
+161896	2022-11-01	East Mckeesport	105
+161897	2023-01-01	East Mckeesport	32
+161898	2023-04-01	East Mckeesport	5
+161899	2023-06-01	East Mckeesport	2
+161900	2022-09-01	East Pittsburgh	7
+161901	2022-11-01	East Pittsburgh	54
+161902	2023-01-01	East Pittsburgh	12
+161903	2023-04-01	East Pittsburgh	5
+161904	2023-06-01	East Pittsburgh	4
+161905	2023-08-01	East Pittsburgh	1
+161906	2023-02-01	Edgewood	37
+161907	2022-09-01	Edgeworth	54
+161908	2022-11-01	Edgeworth	157
+161909	2023-01-01	Edgeworth	23
+161910	2023-04-01	Edgeworth	2
+161911	2023-06-01	Edgeworth	1
+161912	2023-08-01	Edgeworth	2
+161913	2023-10-01	Edgeworth	2
+161914	2022-09-01	Elizabeth Borough	14
+161915	2022-11-01	Elizabeth Borough	65
+161916	2023-01-01	Elizabeth Borough	8
+161917	2023-04-01	Elizabeth Borough	2
+161918	2023-06-01	Elizabeth Borough	1
+161919	2023-08-01	Elizabeth Borough	1
+161920	2022-10-01	Elizabeth Township	759
+161921	2023-03-01	Elizabeth Township	45
+161922	2022-10-01	Elliott (Pittsburgh)	97
+161923	2022-12-01	Elliott (Pittsburgh)	49
+161924	2023-03-01	Elliott (Pittsburgh)	4
+161925	2023-05-01	Elliott (Pittsburgh)	1
+161926	2023-07-01	Elliott (Pittsburgh)	1
+161927	2023-02-01	Emsworth	11
+161928	2023-02-01	Esplen (Pittsburgh)	3
+161929	2022-10-01	Etna	205
+161930	2022-12-01	Etna	98
+161931	2023-03-01	Etna	11
+161932	2023-05-01	Etna	5
+161933	2023-07-01	Etna	3
+161934	2023-02-01	Fawn	11
+161935	2023-09-01	Fawn	1
+161936	2023-02-01	Findlay	27
+161937	2023-09-01	Findlay	2
+161938	2023-02-01	Forest Hills	55
+161939	2023-09-01	Forest Hills	2
+161940	2022-09-01	Forward	14
+161941	2022-11-01	Forward	63
+161942	2023-01-01	Forward	23
+161943	2023-04-01	Forward	3
+161944	2022-10-01	Fox Chapel	645
+161945	2022-12-01	Fox Chapel	271
+161946	2023-03-01	Fox Chapel	23
+161947	2023-05-01	Fox Chapel	21
+161948	2023-07-01	Fox Chapel	5
+161949	2023-08-01	Franklin Park	17
+161950	2023-10-01	Franklin Park	1
+161951	2022-10-01	Frazer	53
+161952	2022-12-01	Frazer	27
+161953	2023-05-01	Frazer	1
+161954	2023-07-01	Frazer	2
+161955	2022-09-01	Friendship (Pittsburgh)	36
+161956	2022-11-01	Friendship (Pittsburgh)	111
+161957	2023-01-01	Friendship (Pittsburgh)	26
+161958	2023-04-01	Friendship (Pittsburgh)	6
+161959	2023-06-01	Friendship (Pittsburgh)	5
+161960	2023-08-01	Friendship (Pittsburgh)	4
+161961	2023-09-01	Garfield (Pittsburgh)	3
+161962	2023-05-01	Glassport	9
+161963	2023-07-01	Glassport	6
+161964	2022-09-01	Glen Osborne	12
+161965	2022-11-01	Glen Osborne	59
+161966	2023-01-01	Glen Osborne	9
+161967	2023-06-01	Glen Osborne	1
+161968	2022-09-01	Glenfield	1
+161969	2022-11-01	Glenfield	11
+161970	2023-06-01	Glenfield	1
+161971	2023-10-01	Green Tree	1
+161972	2023-02-01	Greenfield (Pittsburgh)	50
+161973	2023-09-01	Greenfield (Pittsburgh)	7
+161974	2023-02-01	Hampton	124
+161975	2023-09-01	Hampton	10
+161976	2023-02-01	Harrison	48
+161977	2023-09-01	Harrison	5
+161978	2023-02-01	Hazelwood (Pittsburgh)	21
+161979	2023-09-01	Hazelwood (Pittsburgh)	4
+161980	2022-10-01	Heidelberg	53
+161981	2022-12-01	Heidelberg	36
+161982	2023-03-01	Heidelberg	3
+161983	2023-05-01	Heidelberg	2
+161984	2023-02-01	Highland Park (Pittsburgh)	67
+161985	2023-09-01	Highland Park (Pittsburgh)	8
+161986	2022-09-01	Homewood North (Pittsburgh)	15
+161987	2023-02-01	Homewood South (Pittsburgh)	10
+161988	2023-09-01	Homewood South (Pittsburgh)	1
+161989	2022-09-01	Homewood West (Pittsburgh)	7
+161990	2022-11-01	Homewood West (Pittsburgh)	24
+161991	2023-01-01	Homewood West (Pittsburgh)	6
+161992	2023-04-01	Homewood West (Pittsburgh)	4
+161993	2023-06-01	Homewood West (Pittsburgh)	3
+161994	2023-08-01	Homewood West (Pittsburgh)	2
+161995	2022-09-01	Indiana	138
+161996	2022-11-01	Indiana	488
+161997	2023-01-01	Indiana	95
+161998	2023-04-01	Indiana	20
+161999	2023-06-01	Indiana	12
+162000	2023-08-01	Indiana	10
+162001	2023-10-01	Indiana	2
+162002	2022-09-01	Ingram	46
+162003	2022-11-01	Ingram	176
+162004	2023-01-01	Ingram	47
+162005	2023-04-01	Ingram	10
+162006	2023-06-01	Ingram	5
+162007	2023-08-01	Ingram	2
+162008	2022-09-01	Jefferson Hills	128
+162009	2022-11-01	Jefferson Hills	611
+162010	2023-02-01	Kennedy	47
+162011	2023-02-01	Kilbuck	5
+162012	2023-09-01	Kilbuck	2
+162013	2023-02-01	Knoxville (Pittsburgh)	15
+162014	2022-12-01	Larimer (Pittsburgh)	28
+162015	2023-03-01	Larimer (Pittsburgh)	7
+162016	2023-05-01	Larimer (Pittsburgh)	4
+162017	2023-07-01	Larimer (Pittsburgh)	3
+162018	2022-09-01	Leet	12
+162019	2022-11-01	Leet	94
+162020	2023-01-01	Leet	20
+162021	2023-04-01	Leet	2
+162022	2023-06-01	Leet	3
+162023	2022-09-01	Leetsdale	9
+162024	2022-11-01	Leetsdale	56
+162025	2023-01-01	Leetsdale	22
+162026	2023-04-01	Leetsdale	1
+162027	2023-08-01	Leetsdale	2
+162028	2023-10-01	Leetsdale	1
+162029	2022-09-01	Liberty	16
+162030	2022-11-01	Liberty	107
+162031	2023-01-01	Liberty	25
+162032	2023-04-01	Liberty	4
+162033	2023-06-01	Liberty	4
+162034	2023-08-01	Liberty	2
+162035	2022-09-01	Lincoln-Lemington-Belmar (Pittsburgh)	26
+162036	2022-11-01	Lincoln-Lemington-Belmar (Pittsburgh)	132
+162037	2023-01-01	Lincoln-Lemington-Belmar (Pittsburgh)	38
+162038	2023-05-01	Northview Heights (Pittsburgh)	23
+162039	2023-07-01	Northview Heights (Pittsburgh)	2
+162040	2022-11-01	O'Hara	874
+162041	2023-01-01	O'Hara	206
+162042	2023-04-01	O'Hara	22
+162043	2023-06-01	O'Hara	24
+162044	2023-08-01	O'Hara	6
+162045	2023-10-01	O'Hara	1
+162046	2023-10-01	Oakdale	1
+162047	2022-10-01	Oakmont	771
+162048	2022-12-01	Oakmont	222
+162049	2023-03-01	Oakmont	22
+162050	2023-02-01	Oakwood (Pittsburgh)	5
+162051	2023-02-01	Ohio	39
+162052	2023-09-01	Ohio	5
+162053	2022-10-01	Penn Hills	2664
+162054	2022-12-01	Penn Hills	1103
+162055	2023-03-01	Penn Hills	190
+162056	2023-05-01	Penn Hills	109
+162057	2023-07-01	Penn Hills	31
+162058	2023-02-01	Perry North (Pittsburgh)	24
+162059	2023-09-01	Perry North (Pittsburgh)	5
+162060	2022-10-01	Perry South (Pittsburgh)	177
+162061	2022-12-01	Perry South (Pittsburgh)	100
+162062	2023-03-01	Perry South (Pittsburgh)	23
+162063	2023-05-01	Perry South (Pittsburgh)	14
+162064	2023-07-01	Perry South (Pittsburgh)	3
+162065	2022-09-01	Pine	254
+162066	2022-11-01	Pine	823
+162067	2023-01-01	Pine	231
+162068	2023-04-01	Pine	27
+162069	2023-06-01	Pine	24
+162070	2023-08-01	Pine	25
+162071	2023-10-01	Pine	4
+162072	2022-09-01	Pitcairn	16
+162073	2022-11-01	Pitcairn	125
+162074	2023-01-01	Pitcairn	35
+162075	2023-04-01	Pitcairn	7
+162076	2023-06-01	Pitcairn	3
+162077	2023-08-01	Pitcairn	2
+162078	2023-10-01	Pitcairn	1
+162079	2022-10-01	Pleasant Hills	663
+162080	2022-12-01	Pleasant Hills	310
+162081	2023-03-01	Pleasant Hills	32
+162082	2023-05-01	Pleasant Hills	13
+162083	2023-07-01	Pleasant Hills	8
+162084	2023-02-01	Plum	129
+162085	2023-02-01	Point Breeze (Pittsburgh)	58
+162086	2023-01-01	Point Breeze North (Pittsburgh)	29
+162087	2023-04-01	Point Breeze North (Pittsburgh)	16
+162088	2023-06-01	Point Breeze North (Pittsburgh)	6
+162089	2023-08-01	Point Breeze North (Pittsburgh)	2
+162090	2023-10-01	Point Breeze North (Pittsburgh)	1
+162091	2023-02-01	Regent Square (Pittsburgh)	11
+162092	2023-09-01	Regent Square (Pittsburgh)	1
+162093	2022-10-01	Reserve	275
+162094	2022-12-01	Reserve	111
+162095	2023-03-01	Reserve	15
+162096	2023-05-01	Reserve	9
+162097	2023-06-01	Reserve	6
+162098	2023-08-01	Reserve	2
+162099	2023-02-01	Richland	92
+162100	2023-09-01	Richland	2
+162101	2022-10-01	Ridgemont (Pittsburgh)	26
+162102	2022-12-01	Ridgemont (Pittsburgh)	11
+162103	2023-03-01	Ridgemont (Pittsburgh)	3
+162104	2023-05-01	Ridgemont (Pittsburgh)	1
+162105	2022-09-01	Ross	571
+162106	2022-11-01	Ross	2222
+162107	2023-01-01	Ross	518
+162108	2023-04-01	Ross	81
+162109	2023-06-01	Ross	54
+162110	2023-08-01	Ross	33
+162111	2023-10-01	Ross	7
+162112	2023-02-01	Rosslyn Farms	2
+162113	2022-09-01	Scott	267
+162114	2022-11-01	Scott	1358
+162115	2023-01-01	Scott	238
+162116	2023-04-01	Scott	44
+162117	2023-06-01	Scott	27
+162118	2023-08-01	Scott	14
+162119	2023-10-01	Scott	5
+162120	2023-09-01	Sewickley	6
+162121	2023-02-01	Sewickley Heights	5
+162122	2023-02-01	Sewickley Hills	11
+162123	2023-09-01	Sewickley Hills	1
+162124	2022-11-01	Shadyside (Pittsburgh)	863
+162125	2023-01-01	Shadyside (Pittsburgh)	227
+162126	2023-04-01	Shadyside (Pittsburgh)	38
+162127	2023-06-01	Shadyside (Pittsburgh)	30
+162128	2023-08-01	Shadyside (Pittsburgh)	6
+162129	2023-10-01	Shadyside (Pittsburgh)	7
+162130	2022-09-01	Shaler	507
+162131	2022-11-01	Shaler	1854
+162132	2023-01-01	Shaler	425
+162133	2023-04-01	Shaler	94
+162134	2023-06-01	Shaler	39
+162135	2023-08-01	Shaler	41
+162136	2023-10-01	Shaler	5
+162137	2023-02-01	Sharpsburg	24
+162138	2023-09-01	Sharpsburg	4
+162139	2022-09-01	Sheraden (Pittsburgh)	47
+162140	2022-11-01	Sheraden (Pittsburgh)	190
+162141	2023-01-01	Sheraden (Pittsburgh)	50
+162142	2023-04-01	Sheraden (Pittsburgh)	15
+162143	2023-06-01	Sheraden (Pittsburgh)	6
+162144	2023-08-01	Sheraden (Pittsburgh)	6
+162145	2023-10-01	Sheraden (Pittsburgh)	1
+162146	2022-10-01	South Oakland (Pittsburgh)	137
+162147	2022-12-01	South Oakland (Pittsburgh)	58
+162148	2023-03-01	South Oakland (Pittsburgh)	14
+162149	2023-05-01	South Oakland (Pittsburgh)	19
+162150	2023-07-01	South Oakland (Pittsburgh)	1
+162151	2022-10-01	South Park	869
+162152	2022-12-01	South Park	414
+162153	2023-03-01	South Park	65
+162154	2023-05-01	South Park	35
+162155	2023-07-01	South Park	15
+162156	2022-09-01	South Shore (Pittsburgh)	6
+162157	2022-11-01	South Shore (Pittsburgh)	13
+162158	2023-01-01	Southside Flats (Pittsburgh)	74
+162159	2023-06-01	Southside Flats (Pittsburgh)	17
+162160	2023-08-01	Southside Flats (Pittsburgh)	6
+162161	2023-10-01	Southside Flats (Pittsburgh)	1
+162162	2022-09-01	Southside Slopes (Pittsburgh)	46
+162163	2022-11-01	Southside Slopes (Pittsburgh)	165
+162164	2023-01-01	Southside Slopes (Pittsburgh)	43
+162165	2023-04-01	Southside Slopes (Pittsburgh)	6
+162166	2023-06-01	Southside Slopes (Pittsburgh)	7
+162167	2023-08-01	Southside Slopes (Pittsburgh)	5
+162168	2023-10-01	Southside Slopes (Pittsburgh)	1
+162169	2022-11-01	Spring Garden (Pittsburgh)	48
+162170	2023-01-01	Spring Garden (Pittsburgh)	5
+162171	2023-04-01	Spring Garden (Pittsburgh)	1
+162172	2023-06-01	Spring Garden (Pittsburgh)	1
+162173	2022-10-01	Spring Hill-City View (Pittsburgh)	137
+162174	2022-12-01	Spring Hill-City View (Pittsburgh)	59
+162175	2023-03-01	Spring Hill-City View (Pittsburgh)	13
+162176	2023-05-01	Spring Hill-City View (Pittsburgh)	4
+162177	2023-07-01	Spring Hill-City View (Pittsburgh)	3
+162178	2023-02-01	Springdale Borough	23
+162179	2023-09-01	Springdale Borough	1
+162180	2022-10-01	Springdale Township	129
+162181	2022-12-01	Springdale Township	48
+162182	2023-03-01	Springdale Township	12
+162183	2023-05-01	Springdale Township	5
+162184	2023-02-01	Squirrel Hill North (Pittsburgh)	79
+162185	2023-02-01	Squirrel Hill South (Pittsburgh)	113
+162186	2023-09-01	Squirrel Hill South (Pittsburgh)	10
+162187	2023-09-01	St. Clair (Pittsburgh)	1
+162188	2022-09-01	Stanton Heights (Pittsburgh)	104
+162189	2022-11-01	Stanton Heights (Pittsburgh)	345
+162190	2023-01-01	Stanton Heights (Pittsburgh)	76
+162191	2023-04-01	Stanton Heights (Pittsburgh)	20
+162192	2023-06-01	Stanton Heights (Pittsburgh)	8
+162193	2023-08-01	Stanton Heights (Pittsburgh)	5
+162194	2023-10-01	Stanton Heights (Pittsburgh)	4
+162195	2023-08-01	Stowe	6
+162196	2023-02-01	Marshall	34
+162197	2023-09-01	Marshall	9
+162198	2022-09-01	McCandless	675
+162199	2022-11-01	McCandless	2191
+162200	2023-01-01	McCandless	523
+162201	2023-04-01	McCandless	91
+162202	2023-06-01	McCandless	65
+162203	2023-08-01	McCandless	25
+162204	2022-10-01	Mckees rocks	210
+162205	2023-02-01	McKeesport	81
+162206	2023-09-01	McKeesport	4
+162207	2022-10-01	Middle Hill (Pittsburgh)	64
+162208	2022-12-01	Middle Hill (Pittsburgh)	58
+162209	2023-03-01	Middle Hill (Pittsburgh)	7
+162210	2023-05-01	Middle Hill (Pittsburgh)	3
+162211	2023-07-01	Middle Hill (Pittsburgh)	2
+162212	2022-09-01	Millvale	32
+162213	2022-11-01	Millvale	141
+162214	2023-01-01	Millvale	22
+162215	2023-04-01	Millvale	15
+162216	2023-06-01	Millvale	2
+162217	2023-08-01	Millvale	5
+162218	2023-10-01	Millvale	1
+162219	2022-09-01	Monroeville	478
+162220	2022-11-01	Monroeville	1862
+162221	2023-01-01	Monroeville	458
+162222	2023-04-01	Monroeville	62
+162223	2023-06-01	Monroeville	45
+162224	2023-08-01	Monroeville	18
+162225	2023-10-01	Monroeville	6
+162226	2022-10-01	Moon	1472
+162227	2022-12-01	Moon	832
+162228	2023-03-01	Moon	91
+162229	2023-05-01	Moon	54
+162230	2023-07-01	Moon	12
+162231	2023-02-01	Mount Oliver Borough	16
+162232	2023-09-01	Mount Oliver Borough	1
+162233	2023-09-01	Mount Washington (Pittsburgh)	2
+162234	2022-11-01	Mt. Oliver (Pittsburgh)	14
+162235	2023-01-01	Mt. Oliver (Pittsburgh)	5
+162236	2023-04-01	Mt. Oliver (Pittsburgh)	2
+162237	2023-06-01	Mt. Oliver (Pittsburgh)	1
+162238	2023-08-01	Mt. Oliver (Pittsburgh)	1
+162239	2022-09-01	Munhall	126
+162240	2022-11-01	Munhall	542
+162241	2023-01-01	Munhall	114
+162242	2023-04-01	Munhall	26
+162243	2023-06-01	Munhall	20
+162244	2023-08-01	Munhall	10
+162245	2023-10-01	Munhall	4
+162246	2023-02-01	New Homestead (Pittsburgh)	5
+162247	2023-02-01	North Braddock	31
+162248	2023-09-01	North Braddock	1
+162249	2022-09-01	North Fayette	140
+162250	2022-11-01	North Fayette	609
+162251	2023-01-01	North Fayette	136
+162252	2023-04-01	North Fayette	27
+162253	2023-06-01	North Fayette	16
+162254	2023-08-01	North Fayette	3
+162255	2023-10-01	North Fayette	1
+162256	2022-11-01	North Oakland (Pittsburgh)	323
+162257	2023-01-01	North Oakland (Pittsburgh)	79
+162258	2023-04-01	North Oakland (Pittsburgh)	15
+162259	2023-06-01	North Oakland (Pittsburgh)	11
+162260	2023-08-01	North Oakland (Pittsburgh)	6
+162261	2023-10-01	North Oakland (Pittsburgh)	4
+162262	2022-09-01	North Shore (Pittsburgh)	3
+162263	2022-11-01	North Shore (Pittsburgh)	23
+162264	2023-01-01	North Shore (Pittsburgh)	3
+162265	2023-04-01	North Shore (Pittsburgh)	1
+162266	2023-06-01	North Shore (Pittsburgh)	1
+162267	2023-02-01	Northview Heights (Pittsburgh)	9
+162268	2023-09-01	Northview Heights (Pittsburgh)	1
+162269	2022-10-01	O'Hara	1138
+162270	2022-12-01	O'Hara	390
+162271	2023-03-01	O'Hara	48
+162272	2023-05-01	O'Hara	33
+162273	2023-07-01	O'Hara	11
+162274	2022-10-01	Oakdale	75
+162275	2022-12-01	Oakdale	40
+162276	2023-03-01	Oakdale	6
+162277	2023-05-01	Oakdale	3
+162278	2023-07-01	Oakdale	2
+162279	2022-09-01	Oakmont	202
+162280	2022-11-01	Oakmont	592
+162281	2023-01-01	Oakmont	106
+162282	2023-04-01	Oakmont	14
+162283	2023-06-01	Oakmont	8
+162284	2023-08-01	Oakmont	8
+162285	2023-10-01	Oakmont	1
+162286	2022-09-01	Oakwood (Pittsburgh)	10
+162287	2022-11-01	Oakwood (Pittsburgh)	61
+162288	2023-01-01	Oakwood (Pittsburgh)	17
+162289	2023-07-01	Ohio	13
+162290	2022-10-01	Overbrook (Pittsburgh)	192
+162291	2022-12-01	Overbrook (Pittsburgh)	88
+162292	2023-03-01	Overbrook (Pittsburgh)	20
+162293	2023-05-01	Overbrook (Pittsburgh)	1
+162294	2023-07-01	Overbrook (Pittsburgh)	9
+162295	2023-02-01	Penn Hills	259
+162296	2022-10-01	Pennsbury Village	48
+162297	2022-12-01	Pennsbury Village	21
+162298	2023-07-01	Pennsbury Village	1
+162299	2022-12-01	Perry North (Pittsburgh)	119
+162300	2023-03-01	Perry North (Pittsburgh)	26
+162301	2023-05-01	Perry North (Pittsburgh)	9
+162302	2023-07-01	Perry North (Pittsburgh)	3
+162303	2022-09-01	Perry South (Pittsburgh)	18
+162304	2022-11-01	Perry South (Pittsburgh)	174
+162305	2023-01-01	Perry South (Pittsburgh)	59
+162306	2023-04-01	Perry South (Pittsburgh)	14
+162307	2023-06-01	Perry South (Pittsburgh)	6
+162308	2023-08-01	Perry South (Pittsburgh)	5
+162309	2022-10-01	Pine	1013
+162310	2022-12-01	Pine	434
+162311	2023-03-01	Pine	42
+162312	2023-05-01	Pine	28
+162313	2023-07-01	Pine	16
+162314	2023-02-01	Pitcairn	11
+162315	2023-09-01	Pitcairn	2
+162316	2022-10-01	Plum	1707
+162317	2022-12-01	Plum	875
+162318	2023-03-01	Plum	105
+162319	2023-05-01	Plum	62
+162320	2023-07-01	Plum	16
+162321	2022-10-01	Point Breeze (Pittsburgh)	940
+162322	2022-12-01	Point Breeze (Pittsburgh)	304
+162323	2023-03-01	Point Breeze (Pittsburgh)	41
+162324	2023-05-01	Point Breeze (Pittsburgh)	18
+162325	2023-07-01	Point Breeze (Pittsburgh)	14
+162326	2022-10-01	Point Breeze North (Pittsburgh)	203
+162327	2022-12-01	Point Breeze North (Pittsburgh)	81
+162328	2023-03-01	Point Breeze North (Pittsburgh)	5
+162329	2023-05-01	Point Breeze North (Pittsburgh)	12
+162330	2023-07-01	Point Breeze North (Pittsburgh)	2
+162331	2022-10-01	Polish Hill (Pittsburgh)	100
+162332	2022-12-01	Polish Hill (Pittsburgh)	46
+162333	2023-03-01	Polish Hill (Pittsburgh)	2
+162334	2023-05-01	Polish Hill (Pittsburgh)	1
+162335	2023-07-01	Polish Hill (Pittsburgh)	8
+162336	2022-10-01	Port Vue	182
+162337	2022-12-01	Port Vue	65
+162338	2023-03-01	Port Vue	8
+162339	2023-05-01	Port Vue	4
+162340	2023-07-01	Port Vue	3
+162341	2023-02-01	Rankin	5
+162342	2023-09-01	Rankin	2
+162343	2022-09-01	Regent Square (Pittsburgh)	50
+162344	2022-11-01	Regent Square (Pittsburgh)	141
+162345	2023-01-01	Regent Square (Pittsburgh)	25
+162346	2023-04-01	Regent Square (Pittsburgh)	3
+162347	2023-06-01	Regent Square (Pittsburgh)	2
+162348	2023-10-01	Regent Square (Pittsburgh)	1
+162349	2022-09-01	Richland	199
+162350	2022-11-01	Richland	751
+162351	2023-01-01	Richland	168
+162352	2023-04-01	Richland	32
+162353	2023-06-01	Richland	19
+162354	2023-08-01	Richland	16
+162355	2022-09-01	Ridgemont (Pittsburgh)	5
+162356	2022-11-01	Ridgemont (Pittsburgh)	36
+162357	2023-01-01	Ridgemont (Pittsburgh)	3
+162358	2023-04-01	Ridgemont (Pittsburgh)	1
+162359	2022-10-01	Robinson	1026
+162360	2023-10-01	Stowe	1
+162361	2023-09-01	Strip District (Pittsburgh)	2
+162362	2022-10-01	Summer Hill (Pittsburgh)	57
+162363	2022-12-01	Summer Hill (Pittsburgh)	29
+162364	2023-03-01	Summer Hill (Pittsburgh)	2
+162365	2023-05-01	Summer Hill (Pittsburgh)	2
+162366	2023-07-01	Summer Hill (Pittsburgh)	4
+162367	2022-12-01	Swisshelm Park (Pittsburgh)	79
+162368	2023-05-01	Swisshelm Park (Pittsburgh)	3
+162369	2023-07-01	Swisshelm Park (Pittsburgh)	1
+162370	2022-09-01	Swissvale	164
+162371	2022-11-01	Swissvale	502
+162372	2023-01-01	Swissvale	123
+162373	2023-04-01	Swissvale	29
+162374	2023-06-01	Swissvale	15
+162375	2023-08-01	Swissvale	8
+162376	2023-10-01	Swissvale	2
+162377	2022-10-01	Tarentum	167
+162378	2022-12-01	Tarentum	72
+162379	2023-03-01	Tarentum	16
+162380	2023-05-01	Tarentum	6
+162381	2023-07-01	Tarentum	4
+162382	2022-10-01	Terrace Village (Pittsburgh)	65
+162383	2022-12-01	Terrace Village (Pittsburgh)	33
+162384	2023-03-01	Terrace Village (Pittsburgh)	6
+162385	2023-05-01	Terrace Village (Pittsburgh)	10
+162386	2023-07-01	Terrace Village (Pittsburgh)	2
+162387	2023-02-01	Thornburg	4
+162388	2022-10-01	Trafford	1
+162389	2022-09-01	Troy Hill (Pittsburgh)	47
+162390	2022-11-01	Troy Hill (Pittsburgh)	163
+162391	2023-04-01	Troy Hill (Pittsburgh)	12
+162392	2023-02-01	Turtle Creek	25
+162393	2023-09-01	Turtle Creek	1
+162394	2022-09-01	Undefined	24
+162395	2022-11-01	Undefined	105
+162396	2023-01-01	Undefined	32
+162397	2023-04-01	Undefined	5
+162398	2023-06-01	Undefined	4
+162399	2023-08-01	Undefined	3
+162400	2023-02-01	Undefined (Pittsburgh)	2
+162401	2022-10-01	Upper Hill (Pittsburgh)	90
+162402	2022-12-01	Upper Hill (Pittsburgh)	48
+162403	2023-03-01	Upper Hill (Pittsburgh)	8
+162404	2023-05-01	Upper Hill (Pittsburgh)	3
+162405	2023-07-01	Upper Hill (Pittsburgh)	3
+162406	2022-11-01	Upper Lawrenceville (Pittsburgh)	150
+162407	2023-01-01	Upper Lawrenceville (Pittsburgh)	55
+162408	2023-04-01	Upper Lawrenceville (Pittsburgh)	6
+162409	2023-06-01	Upper Lawrenceville (Pittsburgh)	5
+162410	2023-08-01	Upper Lawrenceville (Pittsburgh)	3
+162411	2022-10-01	Upper Saint Clair	1808
+162412	2022-12-01	Upper Saint Clair	852
+162413	2023-03-01	Upper Saint Clair	86
+162414	2023-05-01	Upper Saint Clair	64
+162415	2022-09-01	Verona	32
+162416	2022-11-01	Verona	117
+162417	2023-01-01	Verona	34
+162418	2023-04-01	Verona	5
+162419	2023-06-01	Verona	2
+162420	2023-08-01	Verona	1
+162421	2022-09-01	Versailles	9
+162422	2022-11-01	Versailles	54
+162423	2023-01-01	Versailles	19
+162424	2023-04-01	Versailles	5
+162425	2022-10-01	Wall	29
+162426	2022-12-01	Wall	2
+162427	2023-03-01	Wall	2
+162428	2023-07-01	Wall	1
+162429	2022-10-01	West End (Pittsburgh)	9
+162430	2022-12-01	West End (Pittsburgh)	4
+162431	2023-03-01	West End (Pittsburgh)	2
+162432	2023-02-01	West Homestead	5
+162433	2022-10-01	West Mifflin	1181
+162434	2022-12-01	West Mifflin	522
+162435	2023-03-01	West Mifflin	71
+162436	2023-05-01	West Mifflin	35
+162437	2023-07-01	West Mifflin	13
+162438	2023-07-01	West Oakland (Pittsburgh)	2
+162439	2022-09-01	West View	77
+162440	2022-11-01	West View	372
+162441	2023-04-01	West View	10
+162442	2022-09-01	Westwood (Pittsburgh)	45
+162443	2022-11-01	Westwood (Pittsburgh)	178
+162444	2023-01-01	Westwood (Pittsburgh)	50
+162445	2023-04-01	Westwood (Pittsburgh)	7
+162446	2023-06-01	Westwood (Pittsburgh)	5
+162447	2023-08-01	Westwood (Pittsburgh)	2
+162448	2023-10-01	Westwood (Pittsburgh)	2
+162449	2022-09-01	Whitaker	5
+162450	2022-11-01	Whitaker	46
+162451	2023-01-01	Whitaker	6
+162452	2023-04-01	Whitaker	3
+162453	2022-09-01	White Oak	85
+162454	2022-11-01	White Oak	420
+162455	2023-01-01	White Oak	113
+162456	2023-04-01	White Oak	12
+162457	2023-06-01	White Oak	1
+162458	2023-08-01	White Oak	2
+162459	2023-10-01	White Oak	4
+162460	2022-10-01	Whitehall	1198
+162461	2022-12-01	Whitehall	490
+162462	2023-03-01	Whitehall	70
+162463	2023-05-01	Whitehall	37
+162464	2023-07-01	Whitehall	21
+162465	2022-10-01	Wilkins	508
+162466	2022-12-01	Wilkins	198
+162467	2023-03-01	Wilkins	31
+162468	2023-05-01	Wilkins	20
+162469	2023-07-01	Wilkins	8
+162470	2022-09-01	Wilkinsburg	237
+162471	2022-11-01	Wilkinsburg	829
+162472	2023-01-01	Wilkinsburg	224
+162473	2023-04-01	Wilkinsburg	42
+162474	2023-06-01	Wilkinsburg	36
+162475	2023-08-01	Wilkinsburg	15
+162476	2023-10-01	Wilkinsburg	2
+162477	2023-09-01	Windgap (Pittsburgh)	2
+162478	2022-12-01	Robinson	470
+162479	2023-03-01	Robinson	61
+162480	2023-05-01	Robinson	28
+162481	2023-07-01	Robinson	7
+162482	2022-10-01	Ross	2551
+162483	2022-12-01	Ross	1142
+162484	2023-03-01	Ross	151
+162485	2023-05-01	Ross	76
+162486	2023-07-01	Ross	35
+162487	2023-02-01	Scott	89
+162488	2023-09-01	Scott	12
+162489	2022-09-01	Sewickley	99
+162490	2022-11-01	Sewickley	294
+162491	2023-01-01	Sewickley	73
+162492	2023-04-01	Sewickley	8
+162493	2023-06-01	Sewickley	5
+162494	2023-08-01	Sewickley	4
+162495	2022-09-01	Sewickley Heights	18
+162496	2022-11-01	Sewickley Heights	78
+162497	2023-01-01	Sewickley Heights	13
+162498	2023-04-01	Sewickley Heights	2
+162499	2023-06-01	Sewickley Heights	2
+162500	2023-08-01	Sewickley Heights	1
+162501	2022-09-01	Sewickley Hills	17
+162502	2022-11-01	Sewickley Hills	40
+162503	2023-01-01	Sewickley Hills	10
+162504	2023-04-01	Sewickley Hills	3
+162505	2023-06-01	Sewickley Hills	4
+162506	2023-08-01	Sewickley Hills	3
+162507	2022-10-01	Shadyside (Pittsburgh)	1368
+162508	2022-12-01	Shadyside (Pittsburgh)	464
+162509	2023-03-01	Shadyside (Pittsburgh)	58
+162510	2023-05-01	Shadyside (Pittsburgh)	40
+162511	2023-07-01	Shadyside (Pittsburgh)	13
+162512	2023-02-01	Shaler	190
+162513	2023-09-01	Shaler	20
+162514	2022-12-01	Sharpsburg	89
+162515	2023-05-01	Sharpsburg	10
+162516	2023-09-01	Sheraden (Pittsburgh)	6
+162517	2022-10-01	South Fayette	769
+162518	2022-12-01	South Fayette	377
+162519	2023-03-01	South Fayette	56
+162520	2023-05-01	South Fayette	24
+162521	2023-07-01	South Fayette	8
+162522	2023-08-01	South Park	13
+162523	2023-10-01	South Park	2
+162524	2022-10-01	South Shore (Pittsburgh)	11
+162525	2022-10-01	South Versailles	20
+162526	2022-12-01	South Versailles	5
+162527	2023-03-01	South Versailles	1
+162528	2022-10-01	Southside Flats (Pittsburgh)	402
+162529	2022-12-01	Southside Flats (Pittsburgh)	163
+162530	2023-03-01	Southside Flats (Pittsburgh)	27
+162531	2023-05-01	Southside Flats (Pittsburgh)	27
+162532	2023-07-01	Southside Flats (Pittsburgh)	7
+162533	2022-10-01	Southside Slopes (Pittsburgh)	212
+162534	2022-12-01	Southside Slopes (Pittsburgh)	97
+162535	2023-03-01	Southside Slopes (Pittsburgh)	13
+162536	2022-10-01	Spring Garden (Pittsburgh)	44
+162537	2022-12-01	Spring Garden (Pittsburgh)	16
+162538	2023-03-01	Spring Garden (Pittsburgh)	3
+162539	2023-05-01	Spring Garden (Pittsburgh)	1
+162540	2022-09-01	Spring Hill-City View (Pittsburgh)	43
+162541	2022-11-01	Spring Hill-City View (Pittsburgh)	144
+162542	2023-01-01	Spring Hill-City View (Pittsburgh)	26
+162543	2023-04-01	Spring Hill-City View (Pittsburgh)	4
+162544	2023-06-01	Spring Hill-City View (Pittsburgh)	1
+162545	2023-08-01	Spring Hill-City View (Pittsburgh)	3
+162546	2022-10-01	Squirrel Hill North (Pittsburgh)	1204
+162547	2022-12-01	Squirrel Hill North (Pittsburgh)	408
+162548	2023-03-01	Squirrel Hill North (Pittsburgh)	48
+162549	2023-05-01	Squirrel Hill North (Pittsburgh)	41
+162550	2023-07-01	Squirrel Hill North (Pittsburgh)	22
+162551	2022-09-01	Squirrel Hill South (Pittsburgh)	616
+162552	2022-10-01	St. Clair (Pittsburgh)	12
+162553	2022-12-01	St. Clair (Pittsburgh)	7
+162554	2023-03-01	St. Clair (Pittsburgh)	1
+162555	2023-05-01	St. Clair (Pittsburgh)	2
+162556	2022-10-01	Stanton Heights (Pittsburgh)	446
+162557	2022-10-01	Stowe	235
+162558	2022-12-01	Stowe	116
+162559	2023-03-01	Stowe	16
+162560	2023-05-01	Stowe	7
+162561	2023-07-01	Stowe	3
+162562	2022-09-01	Strip District (Pittsburgh)	45
+162563	2022-11-01	Strip District (Pittsburgh)	110
+162564	2023-01-01	Strip District (Pittsburgh)	34
+162565	2023-04-01	Strip District (Pittsburgh)	5
+162566	2023-06-01	Strip District (Pittsburgh)	4
+162567	2023-08-01	Strip District (Pittsburgh)	1
+162568	2023-10-01	Strip District (Pittsburgh)	1
+162569	2023-02-01	Swisshelm Park (Pittsburgh)	5
+162570	2023-02-01	Swissvale	65
+162571	2023-09-01	Swissvale	4
+162572	2022-10-01	Thornburg	69
+162573	2022-12-01	Thornburg	9
+162574	2023-03-01	Thornburg	1
+162575	2023-02-01	Troy Hill (Pittsburgh)	10
+162576	2023-09-01	Troy Hill (Pittsburgh)	1
+162577	2022-09-01	Turtle Creek	30
+162578	2022-11-01	Turtle Creek	202
+162579	2023-01-01	Turtle Creek	39
+162580	2023-04-01	Turtle Creek	13
+162581	2023-06-01	Turtle Creek	1
+162582	2023-08-01	Turtle Creek	2
+162583	2023-10-01	Turtle Creek	1
+162584	2023-09-01	Undefined	1
+162585	2022-11-01	Undefined (Pittsburgh)	5
+162586	2023-06-01	Undefined (Pittsburgh)	2
+162587	2022-09-01	Upper Hill (Pittsburgh)	24
+162588	2022-11-01	Upper Hill (Pittsburgh)	107
+162589	2023-01-01	Upper Hill (Pittsburgh)	24
+162590	2023-04-01	Upper Hill (Pittsburgh)	4
+162591	2023-06-01	Upper Hill (Pittsburgh)	5
+162592	2023-08-01	Upper Hill (Pittsburgh)	3
+162593	2023-10-01	Upper Hill (Pittsburgh)	1
+162594	2022-10-01	Upper Lawrenceville (Pittsburgh)	226
+162595	2022-12-01	Upper Lawrenceville (Pittsburgh)	95
+162596	2023-03-01	Upper Lawrenceville (Pittsburgh)	10
+162597	2023-05-01	Upper Lawrenceville (Pittsburgh)	6
+162598	2023-07-01	Upper Lawrenceville (Pittsburgh)	2
+162599	2022-09-01	Upper Saint Clair	538
+162600	2022-11-01	Upper Saint Clair	1697
+162601	2023-01-01	Upper Saint Clair	434
+162602	2023-04-01	Upper Saint Clair	75
+162603	2023-06-01	Upper Saint Clair	51
+162604	2023-08-01	Upper Saint Clair	39
+162605	2023-10-01	Upper Saint Clair	2
+162606	2023-09-01	Verona	6
+162607	2022-10-01	Versailles	92
+162608	2022-12-01	Versailles	28
+162609	2023-03-01	Versailles	4
+162610	2023-07-01	Versailles	2
+162611	2022-09-01	Wall	3
+162612	2022-11-01	Wall	19
+162613	2023-01-01	Wall	8
+162614	2023-04-01	Wall	2
+162615	2023-08-01	Wall	2
+162616	2022-10-01	West Deer	854
+162617	2022-12-01	West Deer	306
+162618	2023-03-01	West Deer	44
+162619	2023-05-01	West Deer	20
+162620	2023-07-01	West Deer	10
+162621	2022-10-01	West Elizabeth	10
+162622	2022-12-01	West Elizabeth	11
+162623	2023-03-01	West Elizabeth	3
+162624	2022-10-01	West Homestead	97
+162625	2022-12-01	West Homestead	42
+162626	2023-03-01	West Homestead	11
+162627	2023-05-01	West Homestead	4
+162628	2023-07-01	West Homestead	1
+162629	2023-01-01	West Mifflin	218
+162630	2023-06-01	West Mifflin	21
+162631	2023-08-01	West Mifflin	19
+162632	2023-10-01	West Mifflin	3
+162633	2023-02-01	West Oakland (Pittsburgh)	4
+162634	2023-02-01	West View	30
+162635	2023-09-01	West View	5
+162636	2022-10-01	Westwood (Pittsburgh)	200
+162637	2022-12-01	Westwood (Pittsburgh)	94
+162638	2023-03-01	Westwood (Pittsburgh)	14
+162639	2023-05-01	Westwood (Pittsburgh)	5
+162640	2023-02-01	Whitaker	4
+162641	2022-10-01	White Oak	571
+162642	2022-12-01	White Oak	213
+162643	2023-03-01	White Oak	18
+162644	2023-05-01	White Oak	9
+162645	2023-07-01	White Oak	1
+162646	2022-09-01	Wilkins	126
+162647	2022-11-01	Wilkins	391
+162648	2023-01-01	Wilkins	121
+162649	2023-04-01	Wilkins	19
+162650	2023-06-01	Wilkins	6
+162651	2023-08-01	Wilkins	9
+162652	2023-09-01	Wilkinsburg	8
+162653	2022-10-01	Wilmerding	65
+162654	2022-12-01	Wilmerding	38
+162655	2023-03-01	Wilmerding	3
+162656	2023-05-01	Wilmerding	3
+162657	2023-07-01	Wilmerding	1
+162658	2022-09-01	Windgap (Pittsburgh)	10
+162659	2022-11-01	Windgap (Pittsburgh)	82
+162660	2023-01-01	Windgap (Pittsburgh)	24
+162661	2023-04-01	Windgap (Pittsburgh)	4
+162662	2023-06-01	Windgap (Pittsburgh)	4
+162663	2023-08-01	Windgap (Pittsburgh)	1
+162664	2023-04-01	Lincoln-Lemington-Belmar (Pittsburgh)	12
+162665	2023-06-01	Lincoln-Lemington-Belmar (Pittsburgh)	8
+162666	2023-02-01	Lower Lawrenceville (Pittsburgh)	12
+162667	2023-09-01	Lower Lawrenceville (Pittsburgh)	2
+162668	2022-10-01	Manchester (Pittsburgh)	144
+162669	2022-12-01	Manchester (Pittsburgh)	81
+162670	2023-03-01	Manchester (Pittsburgh)	20
+162671	2023-05-01	Manchester (Pittsburgh)	6
+162672	2023-07-01	Manchester (Pittsburgh)	1
+162673	2023-10-01	Marshall	2
+162674	2022-09-01	Marshall-Shadeland (Pittsburgh)	23
+162675	2022-11-01	Marshall-Shadeland (Pittsburgh)	121
+162676	2023-01-01	Marshall-Shadeland (Pittsburgh)	39
+162677	2023-04-01	Marshall-Shadeland (Pittsburgh)	16
+162678	2023-06-01	Marshall-Shadeland (Pittsburgh)	5
+162679	2023-08-01	Marshall-Shadeland (Pittsburgh)	3
+162680	2023-10-01	Marshall-Shadeland (Pittsburgh)	1
+162681	2022-10-01	McCandless	2582
+162682	2022-12-01	McCandless	986
+162683	2023-03-01	McCandless	124
+162684	2023-05-01	McCandless	67
+162685	2023-07-01	McCandless	27
+162686	2022-12-01	Mckees rocks	87
+162687	2023-03-01	Mckees rocks	17
+162688	2023-05-01	Mckees rocks	6
+162689	2023-07-01	Mckees rocks	2
+162690	2022-10-01	McKeesport	668
+162691	2022-12-01	McKeesport	332
+162692	2023-03-01	McKeesport	62
+162693	2023-05-01	McKeesport	29
+162694	2023-07-01	McKeesport	17
+162695	2022-09-01	Middle Hill (Pittsburgh)	7
+162696	2022-11-01	Middle Hill (Pittsburgh)	62
+162697	2023-01-01	Middle Hill (Pittsburgh)	26
+162698	2023-04-01	Middle Hill (Pittsburgh)	11
+162699	2023-06-01	Middle Hill (Pittsburgh)	2
+162700	2023-08-01	Middle Hill (Pittsburgh)	5
+162701	2023-10-01	Middle Hill (Pittsburgh)	3
+162702	2022-10-01	Monroeville	2261
+162703	2022-12-01	Monroeville	876
+162704	2023-03-01	Monroeville	157
+162705	2023-05-01	Monroeville	68
+162706	2023-07-01	Monroeville	32
+162707	2023-02-01	Moon	114
+162708	2023-09-01	Moon	14
+162709	2022-09-01	Morningside (Pittsburgh)	88
+162710	2022-11-01	Morningside (Pittsburgh)	271
+162711	2023-01-01	Morningside (Pittsburgh)	63
+162712	2023-04-01	Morningside (Pittsburgh)	5
+162713	2023-06-01	Morningside (Pittsburgh)	8
+162714	2023-08-01	Morningside (Pittsburgh)	9
+162715	2023-10-01	Morningside (Pittsburgh)	2
+162716	2022-09-01	Mount Lebanon	1048
+162717	2022-11-01	Mount Lebanon	3048
+162718	2023-01-01	Mount Lebanon	664
+162719	2023-04-01	Mount Lebanon	121
+162720	2023-06-01	Mount Lebanon	76
+162721	2023-08-01	Mount Lebanon	40
+162722	2023-10-01	Mount Lebanon	8
+162723	2023-02-01	Mount Washington (Pittsburgh)	43
+162724	2023-02-01	Mt. Oliver (Pittsburgh)	3
+162725	2023-02-01	Munhall	63
+162726	2022-10-01	Neville	61
+162727	2022-12-01	Neville	14
+162728	2023-03-01	Neville	4
+162729	2023-05-01	Neville	1
+162730	2022-09-01	New Homestead (Pittsburgh)	9
+162731	2022-11-01	New Homestead (Pittsburgh)	55
+162732	2023-01-01	New Homestead (Pittsburgh)	21
+162733	2023-04-01	New Homestead (Pittsburgh)	5
+162734	2023-08-01	New Homestead (Pittsburgh)	2
+162735	2022-10-01	North Braddock	179
+162736	2022-12-01	North Braddock	93
+162737	2023-03-01	North Braddock	14
+162738	2023-05-01	North Braddock	8
+162739	2023-07-01	North Braddock	3
+162740	2023-02-01	North Oakland (Pittsburgh)	24
+162741	2023-09-01	North Oakland (Pittsburgh)	3
+162742	2023-02-01	North Versailles	65
+162743	2023-09-01	North Versailles	2
+162744	2022-09-01	Northview Heights (Pittsburgh)	3
+162745	2022-11-01	Northview Heights (Pittsburgh)	23
+162746	2023-01-01	Northview Heights (Pittsburgh)	11
+162747	2023-04-01	Northview Heights (Pittsburgh)	3
+162748	2023-06-01	Northview Heights (Pittsburgh)	3
+162749	2023-08-01	Northview Heights (Pittsburgh)	6
+162750	2023-02-01	O'Hara	53
+162751	2023-09-01	O'Hara	5
+162752	2022-09-01	Oakdale	24
+162753	2022-11-01	Oakdale	69
+162754	2023-01-01	Oakdale	17
+162755	2023-04-01	Oakdale	2
+162756	2023-06-01	Oakdale	4
+162757	2023-05-01	Oakmont	16
+162758	2023-07-01	Oakmont	3
+162759	2022-10-01	Oakwood (Pittsburgh)	89
+162760	2022-12-01	Oakwood (Pittsburgh)	26
+162761	2023-03-01	Oakwood (Pittsburgh)	10
+162762	2023-05-01	Oakwood (Pittsburgh)	3
+162763	2023-07-01	Oakwood (Pittsburgh)	1
+162764	2022-09-01	Ohio	157
+162765	2022-11-01	Ohio	535
+162766	2023-01-01	Ohio	115
+162767	2023-04-01	Ohio	12
+162768	2023-06-01	Ohio	12
+162769	2023-08-01	Ohio	12
+162770	2023-10-01	Ohio	1
+162771	2022-09-01	Overbrook (Pittsburgh)	38
+162772	2022-11-01	Overbrook (Pittsburgh)	154
+162773	2023-01-01	Overbrook (Pittsburgh)	27
+162774	2023-04-01	Overbrook (Pittsburgh)	7
+162775	2023-06-01	Overbrook (Pittsburgh)	1
+162776	2023-08-01	Overbrook (Pittsburgh)	5
+162777	2023-10-01	Overbrook (Pittsburgh)	1
+162778	2023-09-01	Penn Hills	17
+162779	2022-09-01	Pennsbury Village	8
+162780	2022-11-01	Pennsbury Village	40
+162781	2023-01-01	Pennsbury Village	9
+162782	2023-06-01	Pennsbury Village	2
+162783	2022-09-01	Perry North (Pittsburgh)	48
+162784	2022-11-01	Perry North (Pittsburgh)	205
+162785	2023-01-01	Perry North (Pittsburgh)	59
+162786	2023-04-01	Perry North (Pittsburgh)	7
+162787	2023-06-01	Perry North (Pittsburgh)	5
+162788	2023-08-01	Perry North (Pittsburgh)	6
+162789	2023-02-01	Pine	94
+162790	2023-09-01	Pine	9
+162791	2022-09-01	Pleasant Hills	143
+162792	2022-11-01	Pleasant Hills	483
+162793	2023-01-01	Pleasant Hills	97
+162794	2023-04-01	Pleasant Hills	18
+162795	2023-06-01	Pleasant Hills	17
+162796	2023-08-01	Pleasant Hills	5
+162797	2023-10-01	Pleasant Hills	3
+162798	2023-09-01	Plum	13
+162799	2022-09-01	Point Breeze (Pittsburgh)	300
+162800	2022-11-01	Point Breeze (Pittsburgh)	563
+162801	2023-01-01	Point Breeze (Pittsburgh)	150
+162802	2023-04-01	Point Breeze (Pittsburgh)	26
+162803	2023-06-01	Point Breeze (Pittsburgh)	29
+162804	2023-08-01	Point Breeze (Pittsburgh)	7
+162805	2023-10-01	Point Breeze (Pittsburgh)	1
+162806	2023-02-01	Point Breeze North (Pittsburgh)	17
+162807	2023-09-01	Point Breeze North (Pittsburgh)	3
+162808	2022-09-01	Polish Hill (Pittsburgh)	24
+162809	2022-11-01	Polish Hill (Pittsburgh)	72
+162810	2023-01-01	Polish Hill (Pittsburgh)	16
+162811	2023-04-01	Polish Hill (Pittsburgh)	2
+162812	2023-06-01	Polish Hill (Pittsburgh)	6
+162813	2023-08-01	Polish Hill (Pittsburgh)	2
+162814	2022-09-01	Port Vue	19
+162815	2022-11-01	Port Vue	137
+162816	2023-01-01	Port Vue	44
+162817	2023-04-01	Port Vue	2
+162818	2023-06-01	Port Vue	1
+162819	2022-10-01	Rankin	54
+162820	2022-12-01	Rankin	24
+162821	2023-03-01	Rankin	3
+162822	2023-05-01	Rankin	7
+162823	2023-07-01	Rankin	3
+162824	2022-09-01	Reserve	72
+162825	2022-11-01	Reserve	187
+162826	2023-01-01	Reserve	41
+162827	2023-04-01	Reserve	3
+162828	2022-10-01	Richland	813
+162829	2022-12-01	Richland	399
+162830	2023-03-01	Richland	48
+162831	2023-05-01	Richland	17
+162832	2023-07-01	Richland	7
+162833	2022-09-01	Robinson	190
+162834	2022-11-01	Robinson	998
+162835	2023-01-01	Robinson	188
+162836	2023-04-01	Robinson	19
+162837	2023-06-01	Robinson	10
+162838	2023-08-01	Robinson	12
+162839	2023-10-01	Robinson	4
+162840	2022-10-01	Rosslyn Farms	43
+162841	2022-12-01	Rosslyn Farms	25
+162842	2023-05-01	Rosslyn Farms	1
+162843	2023-07-01	Rosslyn Farms	1
+162844	2022-10-01	Scott	1222
+162845	2022-12-01	Scott	467
+162846	2023-03-01	Scott	69
+162847	2023-05-01	Scott	34
+162848	2023-07-01	Scott	17
+162849	2023-02-01	Sewickley	25
+162850	2022-10-01	Sewickley Heights	85
+162851	2022-12-01	Sewickley Heights	35
+162852	2023-03-01	Sewickley Heights	3
+162853	2023-05-01	Sewickley Heights	1
+162854	2023-07-01	Sewickley Heights	1
+162855	2022-10-01	Sewickley Hills	61
+162856	2022-12-01	Sewickley Hills	32
+162857	2023-03-01	Sewickley Hills	6
+162858	2023-07-01	Sewickley Hills	1
+162859	2023-02-01	Shadyside (Pittsburgh)	73
+162860	2023-09-01	Shadyside (Pittsburgh)	7
+162861	2022-09-01	Sharpsburg	41
+162862	2022-11-01	Sharpsburg	140
+162863	2023-01-01	Sharpsburg	45
+162864	2023-04-01	Sharpsburg	10
+162865	2023-06-01	Sharpsburg	2
+162866	2023-08-01	Sharpsburg	6
+162867	2022-10-01	Sheraden (Pittsburgh)	193
+162868	2022-12-01	Sheraden (Pittsburgh)	107
+162869	2023-03-01	Sheraden (Pittsburgh)	10
+162870	2023-05-01	Sheraden (Pittsburgh)	10
+162871	2023-07-01	Sheraden (Pittsburgh)	8
+162872	2022-09-01	South Fayette	179
+162873	2022-11-01	South Fayette	704
+162874	2023-01-01	South Fayette	278
+162875	2023-04-01	South Fayette	19
+162876	2023-06-01	South Fayette	16
+162877	2023-08-01	South Fayette	12
+162878	2023-10-01	South Fayette	1
+162879	2023-02-01	South Oakland (Pittsburgh)	18
+162880	2023-09-01	South Oakland (Pittsburgh)	1
+162881	2023-02-01	South Park	57
+162882	2023-09-01	South Park	11
+162883	2022-12-01	South Shore (Pittsburgh)	5
+162884	2023-02-01	South Versailles	1
+162885	2023-02-01	Southside Flats (Pittsburgh)	35
+162886	2023-09-01	Southside Flats (Pittsburgh)	4
+162887	2023-02-01	Southside Slopes (Pittsburgh)	20
+162888	2023-09-01	Southside Slopes (Pittsburgh)	1
+162889	2022-09-01	Spring Garden (Pittsburgh)	12
+162890	2023-02-01	Spring Hill-City View (Pittsburgh)	13
+162891	2023-09-01	Spring Hill-City View (Pittsburgh)	1
+162892	2022-10-01	Springdale Borough	191
+162893	2022-12-01	Springdale Borough	84
+162894	2023-03-01	Springdale Borough	14
+162895	2023-05-01	Springdale Borough	7
+162896	2023-07-01	Springdale Borough	1
+162897	2022-09-01	Springdale Township	19
+162898	2022-11-01	Springdale Township	115
+162899	2023-01-01	Springdale Township	17
+162900	2023-04-01	Springdale Township	2
+162901	2023-06-01	Springdale Township	4
+162902	2022-09-01	Squirrel Hill North (Pittsburgh)	437
+162903	2022-11-01	Squirrel Hill North (Pittsburgh)	707
+162904	2023-01-01	Squirrel Hill North (Pittsburgh)	227
+162905	2023-04-01	Squirrel Hill North (Pittsburgh)	34
+162906	2023-06-01	Squirrel Hill North (Pittsburgh)	20
+162907	2023-08-01	Squirrel Hill North (Pittsburgh)	4
+162908	2023-10-01	Squirrel Hill North (Pittsburgh)	4
+162909	2022-10-01	Squirrel Hill South (Pittsburgh)	1947
+162910	2022-12-01	Squirrel Hill South (Pittsburgh)	666
+162911	2023-03-01	Squirrel Hill South (Pittsburgh)	71
+162912	2023-05-01	Squirrel Hill South (Pittsburgh)	65
+162913	2023-07-01	Squirrel Hill South (Pittsburgh)	20
+162914	2022-11-01	St. Clair (Pittsburgh)	1
+162915	2023-04-01	St. Clair (Pittsburgh)	1
+162916	2022-12-01	Stanton Heights (Pittsburgh)	212
+162917	2023-03-01	Stanton Heights (Pittsburgh)	32
+162918	2023-05-01	Stanton Heights (Pittsburgh)	12
+162919	2023-07-01	Stanton Heights (Pittsburgh)	3
+162920	2023-02-01	Stowe	29
+162921	2023-09-01	Stowe	4
+162922	2022-10-01	Strip District (Pittsburgh)	160
+162923	2022-12-01	Strip District (Pittsburgh)	59
+162924	2023-03-01	Strip District (Pittsburgh)	3
+162925	2023-05-01	Strip District (Pittsburgh)	7
+162926	2023-07-01	Strip District (Pittsburgh)	1
+162927	2022-09-01	Summer Hill (Pittsburgh)	6
+162928	2022-11-01	Summer Hill (Pittsburgh)	61
+162929	2023-01-01	Summer Hill (Pittsburgh)	12
+162930	2023-06-01	Summer Hill (Pittsburgh)	2
+162931	2023-08-01	Summer Hill (Pittsburgh)	3
+162932	2022-09-01	Swisshelm Park (Pittsburgh)	37
+162933	2022-11-01	Swisshelm Park (Pittsburgh)	117
+162934	2023-01-01	Swisshelm Park (Pittsburgh)	22
+162935	2023-04-01	Swisshelm Park (Pittsburgh)	8
+162936	2023-06-01	Swisshelm Park (Pittsburgh)	3
+162937	2023-08-01	Swisshelm Park (Pittsburgh)	1
+162938	2022-09-01	Tarentum	20
+162939	2022-11-01	Tarentum	167
+162940	2023-01-01	Tarentum	28
+162941	2023-04-01	Tarentum	6
+162942	2023-06-01	Tarentum	1
+162943	2022-09-01	Terrace Village (Pittsburgh)	8
+162944	2022-11-01	Terrace Village (Pittsburgh)	67
+162945	2023-01-01	Terrace Village (Pittsburgh)	22
+162946	2023-04-01	Terrace Village (Pittsburgh)	1
+162947	2023-06-01	Terrace Village (Pittsburgh)	3
+162948	2022-09-01	Thornburg	10
+162949	2022-11-01	Thornburg	32
+162950	2023-01-01	Thornburg	9
+162951	2023-06-01	Thornburg	1
+162952	2022-11-01	Trafford	1
+162953	2022-10-01	Troy Hill (Pittsburgh)	194
+162954	2022-12-01	Troy Hill (Pittsburgh)	74
+162955	2023-03-01	Troy Hill (Pittsburgh)	15
+162956	2023-05-01	Troy Hill (Pittsburgh)	7
+162957	2023-07-01	Troy Hill (Pittsburgh)	2
+162958	2022-10-01	Turtle Creek	191
+162959	2022-12-01	Turtle Creek	108
+162960	2023-03-01	Turtle Creek	26
+162961	2023-05-01	Turtle Creek	8
+162962	2023-07-01	Turtle Creek	2
+162963	2023-02-01	Undefined	6
+162964	2022-10-01	Undefined (Pittsburgh)	5
+162965	2023-02-01	Upper Hill (Pittsburgh)	12
+162966	2022-09-01	Upper Lawrenceville (Pittsburgh)	69
+162967	2023-07-01	Upper Saint Clair	26
+162968	2022-10-01	Verona	148
+162969	2022-12-01	Verona	67
+162970	2023-03-01	Verona	14
+162971	2023-05-01	Verona	9
+162972	2023-07-01	Verona	2
+162973	2023-02-01	Wall	4
+162974	2022-09-01	West Deer	212
+162975	2022-11-01	West Deer	803
+162976	2023-01-01	West Deer	158
+162977	2023-04-01	West Deer	19
+162978	2023-06-01	West Deer	8
+162979	2023-08-01	West Deer	7
+162980	2023-10-01	West Deer	2
+162981	2023-02-01	West Elizabeth	1
+162982	2023-02-01	West End (Pittsburgh)	2
+162983	2023-09-01	West End (Pittsburgh)	1
+162984	2022-09-01	West Mifflin	196
+162985	2022-11-01	West Mifflin	978
+162986	2023-04-01	West Mifflin	37
+162987	2022-10-01	West Oakland (Pittsburgh)	64
+162988	2022-12-01	West Oakland (Pittsburgh)	28
+162989	2023-03-01	West Oakland (Pittsburgh)	6
+162990	2023-05-01	West Oakland (Pittsburgh)	3
+162991	2022-10-01	West View	426
+162992	2022-12-01	West View	209
+162993	2023-03-01	West View	27
+162994	2023-05-01	West View	12
+162995	2023-07-01	West View	9
+162996	2023-02-01	Westwood (Pittsburgh)	16
+162997	2023-09-01	Westwood (Pittsburgh)	1
+162998	2022-09-01	Whitehall	235
+162999	2022-11-01	Whitehall	994
+163000	2023-01-01	Whitehall	231
+163001	2023-04-01	Whitehall	44
+163002	2023-06-01	Whitehall	23
+163003	2023-08-01	Whitehall	18
+163004	2023-10-01	Whitehall	5
+163005	2023-02-01	Wilkins	42
+163006	2023-09-01	Wilkins	5
+163007	2022-10-01	Wilkinsburg	958
+163008	2022-12-01	Wilkinsburg	399
+163009	2023-03-01	Wilkinsburg	69
+163010	2023-05-01	Wilkinsburg	45
+163011	2023-07-01	Wilkinsburg	18
+163012	2022-09-01	Wilmerding	17
+163013	2022-11-01	Wilmerding	58
+163014	2023-01-01	Wilmerding	18
+163015	2023-04-01	Wilmerding	3
+163016	2023-08-01	Wilmerding	1
+163017	2023-02-01	Windgap (Pittsburgh)	11
