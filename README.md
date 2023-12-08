@@ -1,6 +1,36 @@
 # Stupid Big Final Project Hooray
 
-This is the final project for 2241 CMPINF0010
+This is the final project by group *Spaghetti and Dumplings* for 2241 CMPINF0010
+
+## Usage
+
+This repo is to find out which neighborhood in Pittsburgh is the best one to survive in an apocalypse. We dived into datasets, set metrics, and drew statistical conclusions using pandas and data visualization.
+
+## Dataset Used
+
+All of the datasets are from [WPRDC](https://data.wprdc.org/dataset/):
+
+* [Vaccinations](https://data.wprdc.org/dataset/allegheny-county-covid-19-vaccinations): This dataset is about COVID vaccination in Pittsburgh. 
+
+* [Water](https://data.wprdc.org/dataset/city-water-features): This dataset contains information water features such as drinking fountains and sprays recorded in Pittsburgh.
+
+* [Stores](https://data.wprdc.org/dataset/allegheny-county-weights-and-measures-inspections/resource/bac0a05c-71b5-4634-96b9-10cc8a20102d): This dataset contains timing and weighing devices,including gas stations that we would like to analyze on.  
+ 
+## Group Members
+
+Daniel Cheng, dsc60@pitt.edu
+
+Sean Morisoli, smm399@pitt.edu
+
+Brandon Yang, bry23@pitt.edu
+
+## Responsibilities 
+
+Daniel: Gas Stations
+
+Sean: Vaccinations
+
+Brandon: Water Sources
 
 ## Getting Started
 
@@ -12,22 +42,9 @@ This is the final project for 2241 CMPINF0010
 
 4. Launch the `.ipynb` notebooks.
 
-## Usage
-
-TBD
-
 ## Contributing
 
 1. Fork the Project
 2. Commit your Changes (git commit -m 'Added some AmazingFeature')
 3. Push to the Main
 4. Send a Pull Request
-
- 
-## Group Members
-
-Daniel Cheng
-
-Sean Morisoli
-
-Brandon Yang
