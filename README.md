@@ -46,5 +46,5 @@ Brandon: Water Sources
 
 1. Fork the Project
 2. Commit your Changes (git commit -m 'Added some AmazingFeature')
-3. Push to the Main
+3. Open a new branch and push
 4. Send a Pull Request
