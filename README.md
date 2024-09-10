@@ -36,7 +36,7 @@ Brandon: Water Sources
 
 1. This repo uses Jupyter Notebook
 
-2. Type in `git clone git@github.com:aripnokihs/Stupid-Big-Final-Project-Hooray.git` into your terminal and hit enter
+2. Type in `git clone git@github.com:aripnokihs/2241-CMPINF0010-Final-Project.git` into your terminal and hit enter
 
 3. You'll see a folder named *2241-CMPINF0010-Final-Project*, double click on it to open
 
