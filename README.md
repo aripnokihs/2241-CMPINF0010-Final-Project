@@ -1,4 +1,4 @@
-# Stupid Big Final Project Hooray
+# Best Neighborhood to Survive in an Apocalypse
 
 This is the final project by group *Spaghetti and Dumplings* for 2241 CMPINF0010
 
