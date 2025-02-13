@@ -22,7 +22,7 @@ Daniel Cheng, dsc60@pitt.edu
 
 Sean Morisoli, smm399@pitt.edu
 
-Bxxxxxn Yxxg, bxxx3@pitt.edu
+Brandon xxxx, bxxxx@pitt.edu
 
 ## Responsibilities 
 
